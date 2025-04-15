@@ -10,7 +10,8 @@
     "PNTEST8",
     "GREEN LED",
     "a2",
-    "a5"
+    "a5",
+    "a7"
   ],
   "manufacturers": [
     "DAS",
@@ -22,7 +23,8 @@
     "MTEST8",
     "AUDIOS",
     "a2",
-    "a5"
+    "a5",
+    "a7"
   ],
   "vendors": [
     "TEST",
@@ -57,6 +59,7 @@
     "MPTEST8",
     "GREEN_THT_5MMLED",
     "a2",
-    "a5"
+    "a5",
+    "a75"
   ]
 }
