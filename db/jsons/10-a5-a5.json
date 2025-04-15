@@ -1,0 +1,22 @@
+{
+  "id": "10",
+  "partName": "a5",
+  "createdAt": "",
+  "manufacturer": "a5",
+  "manufacturerPart": "a5",
+  "vendor": "a5",
+  "vendorProductLink": "a5",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "quantity": "",
+  "customerRef": "",
+  "description": "",
+  "bin": "",
+  "reorderPoint": "",
+  "reorderQty": "",
+  "costPrice": "",
+  "salePrice": "",
+  "category": "PCB"
+}
