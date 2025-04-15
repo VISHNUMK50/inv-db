@@ -1,0 +1,22 @@
+{
+  "id": "4",
+  "createdAt": "2025-04-15T17:29:29.395Z",
+  "partName": "H5",
+  "manufacturer": "H5",
+  "manufacturerPart": "H5",
+  "vendor": "H5",
+  "vendorProductLink": "H5",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/images/4-H5-H5_LEDJPG.jpg",
+  "imageType": "image/jpeg",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/datasheets/4-H5-H5_5mm-LED-Datasheet.pdf",
+  "datasheetType": "application/pdf",
+  "quantity": "1234",
+  "customerRef": "H5",
+  "description": "H5",
+  "bin": "C3",
+  "reorderPoint": "133",
+  "reorderQty": "1344",
+  "costPrice": "123",
+  "salePrice": "1233.98",
+  "category": "Battery"
+}
