@@ -1,0 +1,35 @@
+{
+  "partNames": [
+    "PNJPG",
+    "PNPNG"
+  ],
+  "manufacturers": [
+    "MJPG",
+    "MPNG"
+  ],
+  "vendors": [
+    "VJPG",
+    "VPNG"
+  ],
+  "categories": [
+    "IC",
+    "Resistor",
+    "Capacitor",
+    "Transistor",
+    "Diode",
+    "LED",
+    "Connector",
+    "Switch",
+    "Sensor",
+    "Microcontroller",
+    "PCB",
+    "Battery",
+    "Module",
+    "Tool",
+    "Other"
+  ],
+  "manufacturerParts": [
+    "MPJPG",
+    "MPPNG"
+  ]
+}
