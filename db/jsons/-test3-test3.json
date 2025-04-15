@@ -1,0 +1,22 @@
+{
+  "id": "",
+  "createdAt": "",
+  "partName": "test3",
+  "manufacturer": "test3",
+  "manufacturerPart": "test3",
+  "vendor": "test3",
+  "vendorProductLink": "test3",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "quantity": "1312",
+  "customerRef": "test3",
+  "description": "test3",
+  "bin": "a1",
+  "reorderPoint": "12",
+  "reorderQty": "31",
+  "costPrice": "213",
+  "salePrice": "122.99",
+  "category": "Battery"
+}
