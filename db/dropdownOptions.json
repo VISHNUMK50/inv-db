@@ -11,7 +11,8 @@
     "GREEN LED",
     "a2",
     "a5",
-    "a7"
+    "a7",
+    "wcc"
   ],
   "manufacturers": [
     "DAS",
@@ -24,7 +25,8 @@
     "AUDIOS",
     "a2",
     "a5",
-    "a7"
+    "a7",
+    "dcw"
   ],
   "vendors": [
     "TEST",
@@ -60,6 +62,7 @@
     "GREEN_THT_5MMLED",
     "a2",
     "a5",
-    "a75"
+    "a75",
+    "cdw"
   ]
 }
