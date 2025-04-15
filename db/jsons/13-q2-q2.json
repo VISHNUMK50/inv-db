@@ -1,0 +1,22 @@
+{
+  "id": "13",
+  "partName": "q2",
+  "createdAt": "",
+  "manufacturer": "q2",
+  "manufacturerPart": "q2",
+  "vendor": "",
+  "vendorProductLink": "",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/images/13-q2-q2_LEDWEBP.webp",
+  "imageType": "image/webp",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/datasheets/13-q2-q2_5mm-LED-Datasheet.pdf",
+  "datasheetType": "application/pdf",
+  "quantity": "34",
+  "customerRef": "",
+  "description": "",
+  "bin": "",
+  "reorderPoint": "",
+  "reorderQty": "",
+  "costPrice": "34",
+  "salePrice": "",
+  "category": ""
+}
