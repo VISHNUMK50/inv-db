@@ -1,0 +1,22 @@
+{
+  "id": "",
+  "createdAt": "",
+  "partName": "test2",
+  "manufacturer": "test2",
+  "manufacturerPart": "test2",
+  "vendor": "ed",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "quantity": "123",
+  "customerRef": "d",
+  "description": "",
+  "bin": "s2",
+  "reorderPoint": "123",
+  "reorderQty": "123",
+  "costPrice": "213",
+  "salePrice": "123",
+  "category": "Tool"
+}
