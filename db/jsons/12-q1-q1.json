@@ -1,0 +1,22 @@
+{
+  "id": "12",
+  "partName": "q1",
+  "createdAt": "",
+  "manufacturer": "q1",
+  "manufacturerPart": "q1",
+  "vendor": "q1",
+  "vendorProductLink": "q1",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "quantity": "21",
+  "customerRef": "q1",
+  "description": "q1",
+  "bin": "",
+  "reorderPoint": "2",
+  "reorderQty": "2",
+  "costPrice": "12",
+  "salePrice": "",
+  "category": "Module"
+}
