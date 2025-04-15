@@ -1,0 +1,22 @@
+{
+  "id": "2",
+  "createdAt": "",
+  "partName": "h2",
+  "manufacturer": "h2",
+  "manufacturerPart": "h2",
+  "vendor": "h2",
+  "vendorProductLink": "h2",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/images/2-h2-h2_LEDWEBP.webp",
+  "imageType": "image/webp",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/datasheets/2-h2-h2_5mm_Blue_LED-AUDIOS_5mm-LED-Datasheet (3).pdf",
+  "datasheetType": "application/pdf",
+  "quantity": "12312312",
+  "customerRef": "h2",
+  "description": "h2",
+  "bin": "d12",
+  "reorderPoint": "123",
+  "reorderQty": "1220",
+  "costPrice": "1231",
+  "salePrice": "1232131",
+  "category": "Module"
+}
