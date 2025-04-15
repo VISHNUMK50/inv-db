@@ -1,0 +1,22 @@
+{
+  "id": "10",
+  "createdAt": "",
+  "partName": "a3",
+  "manufacturer": "a3",
+  "manufacturerPart": "a3",
+  "vendor": "",
+  "vendorProductLink": "",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/images/10-a3-a3_LEDPNG.png",
+  "imageType": "image/png",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/datasheets/10-a3-a3_5mm-LED-Datasheet.pdf",
+  "datasheetType": "application/pdf",
+  "quantity": "12",
+  "customerRef": "",
+  "description": "",
+  "bin": "",
+  "reorderPoint": "",
+  "reorderQty": "",
+  "costPrice": "12",
+  "salePrice": "",
+  "category": "PCB"
+}
