@@ -2,17 +2,20 @@
   "partNames": [
     "EEPROM IC",
     "Q1",
-    "Q2"
+    "Q2",
+    "Q3"
   ],
   "manufacturers": [
     "AUDIOS",
     "Q1",
-    "Q2"
+    "Q2",
+    "Q3"
   ],
   "vendors": [
     "AUDIOS",
     "Q1",
-    "Q2"
+    "Q2",
+    "Q3"
   ],
   "categories": [
     "IC",
@@ -34,6 +37,7 @@
   "manufacturerParts": [
     "Generic",
     "Q1",
-    "Q2"
+    "Q2",
+    "Q3"
   ]
 }
