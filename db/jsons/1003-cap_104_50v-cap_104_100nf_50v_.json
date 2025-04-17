@@ -1,0 +1,22 @@
+{
+  "id": "1003",
+  "createdAt": "",
+  "partName": "cap 104 50v",
+  "manufacturer": "daasa",
+  "manufacturerPart": "cap 104 100nf 50v ",
+  "vendor": "asda",
+  "vendorProductLink": "",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/images/1003-cap_104_50v-cap_104_100nf_50v__1206_CAP.png",
+  "imageType": "image/png",
+  "datasheet": "",
+  "datasheetType": "",
+  "quantity": "12321",
+  "customerRef": "",
+  "description": "",
+  "bin": "",
+  "reorderPoint": "",
+  "reorderQty": "",
+  "costPrice": "123",
+  "salePrice": "",
+  "category": "Capacitor"
+}
