@@ -1,0 +1,22 @@
+{
+  "id": "1",
+  "createdAt": "",
+  "partName": "Q3",
+  "manufacturer": "Q3",
+  "manufacturerPart": "Q3",
+  "vendor": "Q3",
+  "vendorProductLink": "Q3",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/images/1-Q3-Q3_LEDPNG.png",
+  "imageType": "image/png",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/datasheets/1-Q3-Q3_5mm-LED-Datasheet.pdf",
+  "datasheetType": "application/pdf",
+  "quantity": "10",
+  "customerRef": "Q3",
+  "description": "Q3",
+  "bin": "",
+  "reorderPoint": "",
+  "reorderQty": "",
+  "costPrice": "20",
+  "salePrice": "23",
+  "category": "Resistor"
+}
