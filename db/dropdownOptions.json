@@ -5,14 +5,16 @@
     "104 100nF 50V SMD 1206",
     "gds",
     "cawe",
-    "qwe"
+    "qwe",
+    "cvxas"
   ],
   "manufacturers": [
     "AUDIOS",
     "Yageo",
     "dg",
     "awc",
-    "qwe"
+    "qwe",
+    "123"
   ],
   "vendors": [
     "AUDIOS",
@@ -42,6 +44,7 @@
     "104 100nF 50V SMD 1206",
     "sdg",
     "acwecqwc",
-    "123"
+    "123",
+    "ewrw"
   ]
 }
