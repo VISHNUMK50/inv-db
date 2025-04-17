@@ -1,18 +1,15 @@
 {
   "partNames": [
     "EEPROM IC",
-    "100nF 50V (104) SMD 1206",
-    "cap 104 50v"
+    "100nF 50V (104) SMD 1206"
   ],
   "manufacturers": [
     "AUDIOS",
-    "Yageo",
-    "daasa"
+    "Yageo"
   ],
   "vendors": [
     "AUDIOS",
-    "KTRON",
-    "asda"
+    "KTRON"
   ],
   "categories": [
     "IC",
@@ -33,7 +30,6 @@
   ],
   "manufacturerParts": [
     "Generic",
-    "100nF 50V (104) SMD 1206",
-    "cap 104 100nf 50v "
+    "100nF 50V (104) SMD 1206"
   ]
 }
