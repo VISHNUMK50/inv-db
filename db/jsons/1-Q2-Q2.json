@@ -1,0 +1,22 @@
+{
+  "id": "1",
+  "createdAt": "",
+  "partName": "Q2",
+  "manufacturer": "Q2",
+  "manufacturerPart": "Q2",
+  "vendor": "Q2",
+  "vendorProductLink": "Q2",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/images/1-Q2-Q2_LEDPNG.png",
+  "imageType": "image/png",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/datasheets/1-Q2-Q2_5mm-LED-Datasheet.pdf",
+  "datasheetType": "application/pdf",
+  "quantity": "10",
+  "customerRef": "Q2",
+  "description": "Q2",
+  "bin": "L0",
+  "reorderPoint": "10",
+  "reorderQty": "20",
+  "costPrice": "10",
+  "salePrice": "20",
+  "category": "Battery"
+}
