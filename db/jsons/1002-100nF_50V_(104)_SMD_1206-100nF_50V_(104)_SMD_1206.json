@@ -1,0 +1,20 @@
+{
+  "id": "1002",
+  "createdAt": "",
+  "partName": "100nF 50V (104) SMD 1206",
+  "manufacturer": "Yageo",
+  "manufacturerPart": "100nF 50V (104) SMD 1206",
+  "vendor": "KTRON",
+  "vendorProductLink": "https://www.ktron.in/product/100nf-50v-104-mlcc-1206/?v=c86ee0d9d7ed",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/images/1002-100nF_50V_(104)_SMD_1206-100nF_50V_(104)_SMD_1206_1206_CAP.png",
+  "datasheet": "",
+  "quantity": "25",
+  "customerRef": "",
+  "description": "100nF 50V (104) Multi Layered Ceramic Capacitor (MLCC) – SMD 1206",
+  "bin": "A1",
+  "reorderPoint": "5",
+  "reorderQty": "25",
+  "costPrice": ".96",
+  "salePrice": "1.25",
+  "category": "Capacitor"
+}
