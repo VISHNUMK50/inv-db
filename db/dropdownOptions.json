@@ -6,7 +6,8 @@
     "gds",
     "cawe",
     "qwe",
-    "cvxas"
+    "cvxas",
+    "dg"
   ],
   "manufacturers": [
     "AUDIOS",
@@ -14,12 +15,14 @@
     "dg",
     "awc",
     "qwe",
-    "123"
+    "123",
+    "fsd"
   ],
   "vendors": [
     "AUDIOS",
     "KTRON",
-    "qwe"
+    "qwe",
+    "sdf"
   ],
   "categories": [
     "IC",
@@ -45,6 +48,7 @@
     "sdg",
     "acwecqwc",
     "123",
-    "ewrw"
+    "ewrw",
+    "safs"
   ]
 }
