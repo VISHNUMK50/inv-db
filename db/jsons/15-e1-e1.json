@@ -1,0 +1,22 @@
+{
+  "id": "15",
+  "createdAt": "",
+  "partName": "e1",
+  "manufacturer": "e1",
+  "manufacturerPart": "e1",
+  "vendor": "e1",
+  "vendorProductLink": "e1",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/images/15-e1-e1_LEDPNG.png",
+  "imageType": "image/png",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/datasheets/15-e1-e1_5mm-LED-Datasheet.pdf",
+  "datasheetType": "application/pdf",
+  "quantity": "12312",
+  "customerRef": "",
+  "description": "",
+  "bin": "",
+  "reorderPoint": "",
+  "reorderQty": "",
+  "costPrice": "21",
+  "salePrice": "",
+  "category": "Sensor"
+}
