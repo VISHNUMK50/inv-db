@@ -1,0 +1,22 @@
+{
+  "id": "1007",
+  "createdAt": "",
+  "partName": "qwe",
+  "manufacturer": "qwe",
+  "manufacturerPart": "123",
+  "vendor": "qwe",
+  "vendorProductLink": "",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/images/1007-qwe-123_LEDPNG.png",
+  "imageType": "image/png",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/datasheets/1007-qwe-123_5mm-LED-Datasheet.pdf",
+  "datasheetType": "application/pdf",
+  "quantity": "213",
+  "customerRef": "",
+  "description": "",
+  "bin": "",
+  "reorderPoint": "",
+  "reorderQty": "",
+  "costPrice": "12",
+  "salePrice": "",
+  "category": "Capacitor"
+}
