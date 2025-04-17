@@ -1,0 +1,22 @@
+{
+  "id": "1005",
+  "createdAt": "",
+  "partName": "gds",
+  "manufacturer": "dg",
+  "manufacturerPart": "sdg",
+  "vendor": "",
+  "vendorProductLink": "",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/images/1005-gds-sdg_LEDJPG.jpg",
+  "imageType": "image/jpeg",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/datasheets/1005-gds-sdg_5mm-LED-Datasheet.pdf",
+  "datasheetType": "application/pdf",
+  "quantity": "234",
+  "customerRef": "",
+  "description": "",
+  "bin": "",
+  "reorderPoint": "",
+  "reorderQty": "",
+  "costPrice": "324",
+  "salePrice": "",
+  "category": "Capacitor"
+}
