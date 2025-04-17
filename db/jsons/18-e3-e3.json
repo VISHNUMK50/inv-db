@@ -1,0 +1,22 @@
+{
+  "id": "18",
+  "createdAt": "",
+  "partName": "e3",
+  "manufacturer": "e3",
+  "manufacturerPart": "e3",
+  "vendor": "e3",
+  "vendorProductLink": "e3",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/images/18-e3-e3_LEDPNG.png",
+  "imageType": "image/png",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/datasheets/18-e3-e3_5mm-LED-Datasheet.pdf",
+  "datasheetType": "application/pdf",
+  "quantity": "44",
+  "customerRef": "e3",
+  "description": "e3",
+  "bin": "e3",
+  "reorderPoint": "33",
+  "reorderQty": "23",
+  "costPrice": "32",
+  "salePrice": "122.99",
+  "category": "Battery"
+}
