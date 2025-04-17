@@ -4,17 +4,20 @@
     "100nF 50V (104) SMD 1206",
     "104 100nF 50V SMD 1206",
     "gds",
-    "cawe"
+    "cawe",
+    "qwe"
   ],
   "manufacturers": [
     "AUDIOS",
     "Yageo",
     "dg",
-    "awc"
+    "awc",
+    "qwe"
   ],
   "vendors": [
     "AUDIOS",
-    "KTRON"
+    "KTRON",
+    "qwe"
   ],
   "categories": [
     "IC",
@@ -38,6 +41,7 @@
     "100nF 50V (104) SMD 1206",
     "104 100nF 50V SMD 1206",
     "sdg",
-    "acwecqwc"
+    "acwecqwc",
+    "123"
   ]
 }
