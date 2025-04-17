@@ -3,19 +3,22 @@
     "EEPROM IC",
     "Q1",
     "Q2",
-    "Q3"
+    "Q3",
+    "Q4"
   ],
   "manufacturers": [
     "AUDIOS",
     "Q1",
     "Q2",
-    "Q3"
+    "Q3",
+    "Q4"
   ],
   "vendors": [
     "AUDIOS",
     "Q1",
     "Q2",
-    "Q3"
+    "Q3",
+    "Q4"
   ],
   "categories": [
     "IC",
@@ -38,6 +41,7 @@
     "Generic",
     "Q1",
     "Q2",
-    "Q3"
+    "Q3",
+    "Q4"
   ]
 }
