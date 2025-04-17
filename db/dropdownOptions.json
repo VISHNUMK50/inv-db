@@ -4,21 +4,24 @@
     "Q1",
     "Q2",
     "Q3",
-    "Q4"
+    "Q4",
+    "100nF50V104"
   ],
   "manufacturers": [
     "AUDIOS",
     "Q1",
     "Q2",
     "Q3",
-    "Q4"
+    "Q4",
+    "Yageo"
   ],
   "vendors": [
     "AUDIOS",
     "Q1",
     "Q2",
     "Q3",
-    "Q4"
+    "Q4",
+    "KTRON"
   ],
   "categories": [
     "IC",
@@ -42,6 +45,7 @@
     "Q1",
     "Q2",
     "Q3",
-    "Q4"
+    "Q4",
+    "100nF 50V (104)SMD 1206"
   ]
 }
