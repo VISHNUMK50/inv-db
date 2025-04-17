@@ -1,0 +1,22 @@
+{
+  "id": "1009",
+  "createdAt": "",
+  "partName": "dg",
+  "manufacturer": "fsd",
+  "manufacturerPart": "safs",
+  "vendor": "sdf",
+  "vendorProductLink": "dsfsd",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/images/1009-dg-safs_LEDJPG.jpg",
+  "imageType": "image/jpeg",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/datasheets/1009-dg-safs_5mm-LED-Datasheet.pdf",
+  "datasheetType": "application/pdf",
+  "quantity": "241",
+  "customerRef": "",
+  "description": "",
+  "bin": "",
+  "reorderPoint": "",
+  "reorderQty": "",
+  "costPrice": "213",
+  "salePrice": "",
+  "category": "Module"
+}
