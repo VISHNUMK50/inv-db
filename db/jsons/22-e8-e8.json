@@ -1,0 +1,22 @@
+{
+  "id": "22",
+  "createdAt": "",
+  "partName": "e8",
+  "manufacturer": "e8",
+  "manufacturerPart": "e8",
+  "vendor": "e8",
+  "vendorProductLink": "e8",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/images/22-e8-e8_LEDPNG.png",
+  "imageType": "image/png",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/datasheets/22-e8-e8_5mm-LED-Datasheet.pdf",
+  "datasheetType": "application/pdf",
+  "quantity": "20",
+  "customerRef": "e8",
+  "description": "e8",
+  "bin": "j4",
+  "reorderPoint": "10",
+  "reorderQty": "20",
+  "costPrice": "10",
+  "salePrice": "19.98",
+  "category": "Battery"
+}
