@@ -1,13 +1,13 @@
 {
   "partNames": [
-    "EEPROM IC",
+    "EEPROM IC"
   ],
   "manufacturers": [
-    "AUDIOS",
+    "AUDIOS"
 
   ],
   "vendors": [
-    "AUDIOS",
+    "AUDIOS"
 
   ],
   "categories": [
@@ -28,6 +28,6 @@
     "Other"
   ],
   "manufacturerParts": [
-    "Generic",
+    "Generic"
   ]
 }
