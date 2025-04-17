@@ -1,0 +1,22 @@
+{
+  "id": "16",
+  "createdAt": "",
+  "partName": "e2",
+  "manufacturer": "e2",
+  "manufacturerPart": "e2",
+  "vendor": "e2",
+  "vendorProductLink": "e2",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/images/16-e2-e2_LEDWEBP.webp",
+  "imageType": "image/webp",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/datasheets/16-e2-e2_5mm-LED-Datasheet.pdf",
+  "datasheetType": "application/pdf",
+  "quantity": "12",
+  "customerRef": "",
+  "description": "",
+  "bin": "",
+  "reorderPoint": "",
+  "reorderQty": "",
+  "costPrice": "12",
+  "salePrice": "",
+  "category": "Sensor"
+}
