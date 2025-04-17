@@ -1,12 +1,15 @@
 {
   "partNames": [
-    "EEPROM IC"
+    "EEPROM IC",
+    "Q1"
   ],
   "manufacturers": [
-    "AUDIOS"
+    "AUDIOS",
+    "Q1"
   ],
   "vendors": [
-    "AUDIOS"
+    "AUDIOS",
+    "Q1"
   ],
   "categories": [
     "IC",
@@ -26,6 +29,7 @@
     "Other"
   ],
   "manufacturerParts": [
-    "Generic"
+    "Generic",
+    "Q1"
   ]
 }
