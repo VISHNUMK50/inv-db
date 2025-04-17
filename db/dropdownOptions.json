@@ -1,28 +1,14 @@
 {
   "partNames": [
     "EEPROM IC",
-    "Q1",
-    "Q2",
-    "Q3",
-    "Q4",
-    "100nF50V104",
-    "100nF 50V (104)-SMD1206"
   ],
   "manufacturers": [
     "AUDIOS",
-    "Q1",
-    "Q2",
-    "Q3",
-    "Q4",
-    "Yageo"
+
   ],
   "vendors": [
     "AUDIOS",
-    "Q1",
-    "Q2",
-    "Q3",
-    "Q4",
-    "KTRON"
+
   ],
   "categories": [
     "IC",
@@ -43,11 +29,5 @@
   ],
   "manufacturerParts": [
     "Generic",
-    "Q1",
-    "Q2",
-    "Q3",
-    "Q4",
-    "100nF 50V (104)SMD 1206",
-    "100nF 50V (104)-SMD1206"
   ]
 }
