@@ -12,7 +12,8 @@
     "a2",
     "a5",
     "a7",
-    "wcc"
+    "wcc",
+    "e1"
   ],
   "manufacturers": [
     "DAS",
@@ -26,7 +27,8 @@
     "a2",
     "a5",
     "a7",
-    "dcw"
+    "dcw",
+    "e1"
   ],
   "vendors": [
     "TEST",
@@ -36,7 +38,8 @@
     "VTEST7",
     "VTEST8",
     "AUDIOS",
-    "a5"
+    "a5",
+    "e1"
   ],
   "categories": [
     "IC",
@@ -63,6 +66,7 @@
     "a2",
     "a5",
     "a75",
-    "cdw"
+    "cdw",
+    "e1"
   ]
 }
