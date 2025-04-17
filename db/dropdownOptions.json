@@ -3,12 +3,14 @@
     "EEPROM IC",
     "100nF 50V (104) SMD 1206",
     "104 100nF 50V SMD 1206",
-    "gds"
+    "gds",
+    "cawe"
   ],
   "manufacturers": [
     "AUDIOS",
     "Yageo",
-    "dg"
+    "dg",
+    "awc"
   ],
   "vendors": [
     "AUDIOS",
@@ -35,6 +37,7 @@
     "Generic",
     "100nF 50V (104) SMD 1206",
     "104 100nF 50V SMD 1206",
-    "sdg"
+    "sdg",
+    "acwecqwc"
   ]
 }
