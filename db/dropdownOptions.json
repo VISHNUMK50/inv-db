@@ -1,66 +1,12 @@
 {
   "partNames": [
-    "eeprom ic",
-    "ASD",
-    "PNTEST4",
-    "PNTEST5",
-    "PTEST6",
-    "PNTEST6",
-    "PNTEST7",
-    "PNTEST8",
-    "GREEN LED",
-    "a2",
-    "a5",
-    "a7",
-    "wcc",
-    "e1",
-    "e2",
-    "e4",
-    "e3",
-    "e5",
-    "e6",
-    "e7",
-    "e8"
+    "EEPROM IC"
   ],
   "manufacturers": [
-    "DAS",
-    "TEST",
-    "MTEST4",
-    "MTEST5",
-    "MTEST6",
-    "MTEST7",
-    "MTEST8",
-    "AUDIOS",
-    "a2",
-    "a5",
-    "a7",
-    "dcw",
-    "e1",
-    "e2",
-    "e4",
-    "e3",
-    "e5",
-    "e6",
-    "e7",
-    "e8"
+    "AUDIOS"
   ],
   "vendors": [
-    "TEST",
-    "VTEST4",
-    "VTEST5",
-    "VTEST6",
-    "VTEST7",
-    "VTEST8",
-    "AUDIOS",
-    "a5",
-    "e1",
-    "e2",
-    "e4",
-    "e3",
-    "e5",
-    "e6",
-    "e7",
-    "e8"
+    "AUDIOS"
   ],
   "categories": [
     "IC",
@@ -80,21 +26,6 @@
     "Other"
   ],
   "manufacturerParts": [
-    "MPTEST6",
-    "MPTEST7",
-    "MPTEST8",
-    "GREEN_THT_5MMLED",
-    "a2",
-    "a5",
-    "a75",
-    "cdw",
-    "e1",
-    "e2",
-    "e4",
-    "e3",
-    "e5",
-    "e6",
-    "e7",
-    "e8"
+    "Generic"
   ]
 }
