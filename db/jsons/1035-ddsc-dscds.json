@@ -1,0 +1,31 @@
+{
+  "id": "1035",
+  "createdAt": "",
+  "partName": "ddsc",
+  "manufacturer": "dscs",
+  "manufacturerPart": "dscds",
+  "vendor": "",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "avl_quantity": "",
+  "binLocations": [
+    {
+      "bin": "s",
+      "quantity": 33
+    },
+    {
+      "bin": "422f",
+      "quantity": 32
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "",
+  "reorderQty": "",
+  "costPrice": "",
+  "salePrice": "",
+  "category": "Module"
+}
