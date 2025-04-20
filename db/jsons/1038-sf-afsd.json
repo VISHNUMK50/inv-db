@@ -1,0 +1,47 @@
+{
+  "id": "1038",
+  "createdAt": "",
+  "partName": "sf",
+  "manufacturer": "afs",
+  "manufacturerPart": "afsd",
+  "vendor": "",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "avl_quantity": "141",
+  "binLocations": [
+    {
+      "bin": "fe",
+      "quantity": 23
+    },
+    {
+      "bin": "e",
+      "quantity": 22
+    },
+    {
+      "bin": "ew",
+      "quantity": 5
+    },
+    {
+      "bin": "g",
+      "quantity": 45
+    },
+    {
+      "bin": "g",
+      "quantity": 45
+    },
+    {
+      "bin": "sdf",
+      "quantity": 10
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "3",
+  "reorderQty": "4",
+  "costPrice": "",
+  "salePrice": "",
+  "category": "Transistor"
+}
