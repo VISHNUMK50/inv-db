@@ -12,7 +12,8 @@
     "led",
     "ds",
     "sad",
-    "qqqqqqqqqqqqqqqqq"
+    "qqqqqqqqqqqqqqqqq",
+    "choke"
   ],
   "manufacturers": [
     "AUDIOS",
@@ -26,13 +27,15 @@
     "audios",
     "sdf",
     "asd",
-    "eeeeeeeeeeeeeeeee"
+    "eeeeeeeeeeeeeeeee",
+    "generic"
   ],
   "vendors": [
     "AUDIOS",
     "KTRON",
     "qwe",
-    "sdf"
+    "sdf",
+    "test"
   ],
   "categories": [
     "IC",
@@ -64,6 +67,7 @@
     "led 5mm red",
     "sdf",
     "ads",
-    "ewew"
+    "ewew",
+    "commonmode choke"
   ]
 }
