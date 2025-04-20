@@ -1,0 +1,27 @@
+{
+  "id": "1031",
+  "createdAt": "",
+  "partName": "mkm",
+  "manufacturer": "MOKM",
+  "manufacturerPart": "OMOM",
+  "vendor": "",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "quantity": "0",
+  "binLocations": [
+    {
+      "bin": "S1",
+      "quantity": 568
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "79",
+  "reorderQty": "999",
+  "costPrice": "789",
+  "salePrice": "9999",
+  "category": "Module"
+}
