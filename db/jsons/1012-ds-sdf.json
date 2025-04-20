@@ -1,0 +1,30 @@
+{
+  "id": "1012",
+  "createdAt": "",
+  "partName": "ds",
+  "manufacturer": "sdf",
+  "manufacturerPart": "sdf",
+  "vendor": "sdf",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "binLocations": [
+    {
+      "bin": "ds2",
+      "quantity": 12
+    },
+    {
+      "bin": "dwd",
+      "quantity": 23
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "23",
+  "reorderQty": "3434",
+  "costPrice": "21",
+  "salePrice": "12",
+  "category": "Resistor"
+}
