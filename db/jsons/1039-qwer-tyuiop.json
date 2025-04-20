@@ -1,0 +1,35 @@
+{
+  "id": "1039",
+  "createdAt": "",
+  "partName": "qwer",
+  "manufacturer": "tyu",
+  "manufacturerPart": "tyuiop",
+  "vendor": "",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "avl_quantity": "27",
+  "binLocations": [
+    {
+      "bin": "a1",
+      "quantity": 12
+    },
+    {
+      "bin": "a2",
+      "quantity": 13
+    },
+    {
+      "bin": "a3",
+      "quantity": 25
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "5",
+  "reorderQty": "50",
+  "costPrice": "12",
+  "salePrice": "23",
+  "category": "Connector"
+}
