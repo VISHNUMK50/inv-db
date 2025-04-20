@@ -1,13 +1,13 @@
 {
   "id": "1010",
   "createdAt": "",
-  "partName": "asf",
+  "partName": "red",
   "manufacturer": "asf",
   "manufacturerPart": "asf",
   "vendor": "",
   "vendorProductLink": "asf",
-  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/images/1010-asf-asf_LEDWEBP.webp",
-  "imageType": "image/webp",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/images/1010-red-asf_ledSVG.svg",
+  "imageType": "image/svg+xml",
   "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/datasheets/1010-asf-asf_5mm-LED-Datasheet.pdf",
   "datasheetType": "application/pdf",
   "quantity": "20",
@@ -16,7 +16,7 @@
   "bin": "",
   "reorderPoint": "",
   "reorderQty": "",
-  "costPrice": "21",
+  "costPrice": "214",
   "salePrice": "",
   "category": "Resistor"
 }
