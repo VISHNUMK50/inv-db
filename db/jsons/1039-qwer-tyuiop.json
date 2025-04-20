@@ -1,6 +1,6 @@
 {
   "id": "1039",
-  "createdAt": "",
+  "createdAt": "2025-04-20T22:08:12.082Z",
   "partName": "qwer",
   "manufacturer": "tyu",
   "manufacturerPart": "tyuiop",
@@ -10,7 +10,7 @@
   "imageType": "",
   "datasheet": "",
   "datasheetType": "",
-  "avl_quantity": "27",
+  "avl_quantity": "25",
   "binLocations": [
     {
       "bin": "a1",
