@@ -1,0 +1,27 @@
+{
+  "id": "1030",
+  "createdAt": "",
+  "partName": "wf",
+  "manufacturer": "wf",
+  "manufacturerPart": "wef",
+  "vendor": "",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "quantity": "0",
+  "binLocations": [
+    {
+      "bin": "f4",
+      "quantity": 42
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "4",
+  "reorderQty": "24",
+  "costPrice": "23",
+  "salePrice": "233",
+  "category": "Resistor"
+}
