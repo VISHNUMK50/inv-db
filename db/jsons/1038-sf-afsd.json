@@ -1,6 +1,6 @@
 {
   "id": "1038",
-  "createdAt": "",
+  "createdAt": "2025-04-20T22:03:11.262Z",
   "partName": "sf",
   "manufacturer": "afs",
   "manufacturerPart": "afsd",
@@ -10,7 +10,7 @@
   "imageType": "",
   "datasheet": "",
   "datasheetType": "",
-  "avl_quantity": "141",
+  "avl_quantity": "140",
   "binLocations": [
     {
       "bin": "fe",
