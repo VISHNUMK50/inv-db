@@ -1,0 +1,26 @@
+{
+  "id": "1026",
+  "createdAt": "",
+  "partName": "sad",
+  "manufacturer": "asd",
+  "manufacturerPart": "asd",
+  "vendor": "",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "binLocations": [
+    {
+      "bin": "r4",
+      "quantity": 24
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "4",
+  "reorderQty": "44",
+  "costPrice": "3433",
+  "salePrice": "4224",
+  "category": "Resistor"
+}
