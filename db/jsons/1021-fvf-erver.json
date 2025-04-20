@@ -1,0 +1,26 @@
+{
+  "id": "1021",
+  "createdAt": "",
+  "partName": "fvf",
+  "manufacturer": "erve",
+  "manufacturerPart": "erver",
+  "vendor": "",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "binLocations": [
+    {
+      "bin": "f4",
+      "quantity": 34
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "45",
+  "reorderQty": "3434",
+  "costPrice": "34",
+  "salePrice": "344",
+  "category": ""
+}
