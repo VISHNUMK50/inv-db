@@ -31,7 +31,8 @@
     "gngnf",
     "wd",
     "erf",
-    "b dbc"
+    "b dbc",
+    "wf"
   ],
   "manufacturers": [
     "AUDIOS",
@@ -62,7 +63,8 @@
     "ngng",
     "ewd",
     "ergerg",
-    "cvx"
+    "cvx",
+    "wf"
   ],
   "vendors": [
     "AUDIOS",
@@ -123,6 +125,7 @@
     "asd",
     "dew",
     "egerger",
-    "cvx"
+    "cvx",
+    "wef"
   ]
 }
