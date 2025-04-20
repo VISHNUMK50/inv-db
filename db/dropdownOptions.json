@@ -35,7 +35,8 @@
     "wf",
     "mkm",
     "ascfa",
-    "sdf"
+    "sdf",
+    "ddsc"
   ],
   "manufacturers": [
     "AUDIOS",
@@ -70,7 +71,8 @@
     "wf",
     "MOKM",
     "adca",
-    "dsf"
+    "dsf",
+    "dscs"
   ],
   "vendors": [
     "AUDIOS",
@@ -135,6 +137,7 @@
     "wef",
     "OMOM",
     "acd",
-    "efe"
+    "efe",
+    "dscds"
   ]
 }
