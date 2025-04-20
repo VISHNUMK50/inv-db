@@ -1,0 +1,35 @@
+{
+  "id": "1034",
+  "createdAt": "",
+  "partName": "sdf",
+  "manufacturer": "sdf",
+  "manufacturerPart": "sdf",
+  "vendor": "",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "avl_quantity": "",
+  "binLocations": [
+    {
+      "bin": "d2",
+      "quantity": 12
+    },
+    {
+      "bin": "ssd3",
+      "quantity": 21
+    },
+    {
+      "bin": "aas",
+      "quantity": 22
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "3",
+  "reorderQty": "3",
+  "costPrice": "",
+  "salePrice": "",
+  "category": "PCB"
+}
