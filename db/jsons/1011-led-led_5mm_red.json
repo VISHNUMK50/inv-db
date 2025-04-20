@@ -18,5 +18,19 @@
   "reorderQty": "10",
   "costPrice": "5",
   "salePrice": "10",
-  "category": "LED"
+  "category": "LED",
+  "binLocations": [
+    {
+      "bin": "SAD",
+      "quantity": "032"
+    },
+    {
+      "bin": "SD",
+      "quantity": "012"
+    },
+    {
+      "bin": "",
+      "quantity": 0
+    }
+  ]
 }
