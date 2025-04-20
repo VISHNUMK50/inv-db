@@ -1,0 +1,34 @@
+{
+  "id": "1025",
+  "createdAt": "",
+  "partName": "gngnf",
+  "manufacturer": "ngng",
+  "manufacturerPart": "ngf",
+  "vendor": "",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "binLocations": [
+    {
+      "bin": "rfr",
+      "quantity": 3234
+    },
+    {
+      "bin": "f4",
+      "quantity": 234
+    },
+    {
+      "bin": "ffff",
+      "quantity": 3
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "23",
+  "reorderQty": "444",
+  "costPrice": "36",
+  "salePrice": "3564",
+  "category": "Microcontroller"
+}
