@@ -1,0 +1,22 @@
+{
+  "id": "1021",
+  "partName": "cccccccccccccccccccccc",
+  "createdAt": "",
+  "manufacturer": "dddddddddddddddddd",
+  "manufacturerPart": "sssssssssssssssss",
+  "vendor": "cdw",
+  "vendorProductLink": "wc",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "quantity": "0",
+  "binLocations": [],
+  "customerRef": "dcd",
+  "description": "wc",
+  "reorderPoint": "23",
+  "reorderQty": "23",
+  "costPrice": "23",
+  "salePrice": "233",
+  "category": "PCB"
+}
