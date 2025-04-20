@@ -1,0 +1,35 @@
+{
+  "id": "",
+  "partName": "fr",
+  "createdAt": "",
+  "manufacturer": "erg",
+  "manufacturerPart": "reg",
+  "vendor": "",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "quantity": "0",
+  "binLocations": [
+    {
+      "bin": "eg",
+      "quantity": 34
+    },
+    {
+      "bin": "tge",
+      "quantity": 43
+    },
+    {
+      "bin": "rge",
+      "quantity": 34435
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "433",
+  "reorderQty": "5535",
+  "costPrice": "64",
+  "salePrice": "546",
+  "category": "Battery"
+}
