@@ -68,7 +68,8 @@
     "cvx",
     "wf",
     "MOKM",
-    "adca"
+    "adca",
+    "dsf"
   ],
   "vendors": [
     "AUDIOS",
@@ -132,6 +133,7 @@
     "cvx",
     "wef",
     "OMOM",
-    "acd"
+    "acd",
+    "efe"
   ]
 }
