@@ -1,0 +1,27 @@
+{
+  "id": "1029",
+  "createdAt": "",
+  "partName": "b dbc",
+  "manufacturer": "cvx",
+  "manufacturerPart": "cvx",
+  "vendor": "",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "quantity": 0,
+  "binLocations": [
+    {
+      "bin": "d3",
+      "quantity": 23
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "32",
+  "reorderQty": "23",
+  "costPrice": "23",
+  "salePrice": "43",
+  "category": "Diode"
+}
