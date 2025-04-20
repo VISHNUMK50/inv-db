@@ -33,7 +33,8 @@
     "erf",
     "b dbc",
     "wf",
-    "mkm"
+    "mkm",
+    "ascfa"
   ],
   "manufacturers": [
     "AUDIOS",
@@ -66,7 +67,8 @@
     "ergerg",
     "cvx",
     "wf",
-    "MOKM"
+    "MOKM",
+    "adca"
   ],
   "vendors": [
     "AUDIOS",
@@ -129,6 +131,7 @@
     "egerger",
     "cvx",
     "wef",
-    "OMOM"
+    "OMOM",
+    "acd"
   ]
 }
