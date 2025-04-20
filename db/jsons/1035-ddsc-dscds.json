@@ -1,6 +1,6 @@
 {
   "id": "1035",
-  "createdAt": "",
+  "createdAt": "2025-04-20T21:15:24.587Z",
   "partName": "ddsc",
   "manufacturer": "dscs",
   "manufacturerPart": "dscds",
@@ -10,7 +10,7 @@
   "imageType": "",
   "datasheet": "",
   "datasheetType": "",
-  "avl_quantity": "",
+  "avl_quantity": "0",
   "binLocations": [
     {
       "bin": "s",
