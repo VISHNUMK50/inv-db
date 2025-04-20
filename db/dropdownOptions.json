@@ -9,7 +9,8 @@
     "cvxas",
     "dg",
     "asf",
-    "led"
+    "led",
+    "ds"
   ],
   "manufacturers": [
     "AUDIOS",
@@ -20,7 +21,8 @@
     "123",
     "fsd",
     "asf",
-    "audios"
+    "audios",
+    "sdf"
   ],
   "vendors": [
     "AUDIOS",
@@ -55,6 +57,7 @@
     "ewrw",
     "safs",
     "asf",
-    "led 5mm red"
+    "led 5mm red",
+    "sdf"
   ]
 }
