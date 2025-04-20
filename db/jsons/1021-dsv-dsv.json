@@ -1,0 +1,27 @@
+{
+  "id": "1021",
+  "partName": "dsv",
+  "createdAt": "",
+  "manufacturer": "dsv",
+  "manufacturerPart": "dsv",
+  "vendor": "",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "quantity": "0",
+  "binLocations": [
+    {
+      "bin": "f4",
+      "quantity": 34
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "23",
+  "reorderQty": "434",
+  "costPrice": "65",
+  "salePrice": "567",
+  "category": "Diode"
+}
