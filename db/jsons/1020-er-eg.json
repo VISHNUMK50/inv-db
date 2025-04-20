@@ -1,0 +1,26 @@
+{
+  "id": "1020",
+  "createdAt": "",
+  "partName": "er",
+  "manufacturer": "erg",
+  "manufacturerPart": "eg",
+  "vendor": "",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "binLocations": [
+    {
+      "bin": "d3",
+      "quantity": 53
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "35",
+  "reorderQty": "345",
+  "costPrice": "34",
+  "salePrice": "34",
+  "category": "Battery"
+}
