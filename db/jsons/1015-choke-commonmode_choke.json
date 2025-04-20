@@ -1,0 +1,21 @@
+{
+  "id": "1015",
+  "createdAt": "",
+  "partName": "choke",
+  "manufacturer": "generic",
+  "manufacturerPart": "commonmode choke",
+  "vendor": "test",
+  "vendorProductLink": "test",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/images/1015-choke-commonmode_choke_LEDJPG.jpg",
+  "imageType": "image/jpeg",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/datasheets/1015-choke-commonmode_choke_5mm-LED-Datasheet.pdf",
+  "datasheetType": "application/pdf",
+  "binLocations": [],
+  "customerRef": "",
+  "description": "commom mode choke",
+  "reorderPoint": "10",
+  "reorderQty": "50",
+  "costPrice": "10",
+  "salePrice": "15",
+  "category": "Other"
+}
