@@ -10,7 +10,8 @@
     "dg",
     "asf",
     "led",
-    "ds"
+    "ds",
+    "sad"
   ],
   "manufacturers": [
     "AUDIOS",
@@ -22,7 +23,8 @@
     "fsd",
     "asf",
     "audios",
-    "sdf"
+    "sdf",
+    "asd"
   ],
   "vendors": [
     "AUDIOS",
@@ -58,6 +60,7 @@
     "safs",
     "asf",
     "led 5mm red",
-    "sdf"
+    "sdf",
+    "ads"
   ]
 }
