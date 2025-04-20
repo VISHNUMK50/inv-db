@@ -1,0 +1,21 @@
+{
+  "id": "1016",
+  "createdAt": "",
+  "partName": "sssssssssssssssss",
+  "manufacturer": "ssssseeeeeeeeeeeeeeeeeeeeeee",
+  "manufacturerPart": "fdsfdfrff",
+  "vendor": "kjhgkg",
+  "vendorProductLink": "jkyukyuiy",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/images/1016-sssssssssssssssss-fdsfdfrff_LEDJPG.jpg",
+  "imageType": "image/jpeg",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/datasheets/1016-sssssssssssssssss-fdsfdfrff_5mm-LED-Datasheet.pdf",
+  "datasheetType": "application/pdf",
+  "binLocations": [],
+  "customerRef": "kgj",
+  "description": "jk",
+  "reorderPoint": "5",
+  "reorderQty": "235",
+  "costPrice": "23",
+  "salePrice": "42.98",
+  "category": "PCB"
+}
