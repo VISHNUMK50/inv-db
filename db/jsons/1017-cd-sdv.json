@@ -1,0 +1,22 @@
+{
+  "id": "1017",
+  "partName": "cd",
+  "createdAt": "",
+  "manufacturer": "csd",
+  "manufacturerPart": "sdv",
+  "vendor": "",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "quantity": "0",
+  "binLocations": [],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "32",
+  "reorderQty": "23",
+  "costPrice": "32",
+  "salePrice": "23",
+  "category": "Microcontroller"
+}
