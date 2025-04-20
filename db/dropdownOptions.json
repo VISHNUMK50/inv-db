@@ -25,7 +25,8 @@
     "fr",
     "dsv",
     "fvf",
-    "sdv"
+    "sdv",
+    "fg"
   ],
   "manufacturers": [
     "AUDIOS",
@@ -50,7 +51,8 @@
     "fsdd",
     "dsv",
     "erve",
-    "sv"
+    "sv",
+    "dfh"
   ],
   "vendors": [
     "AUDIOS",
@@ -103,6 +105,7 @@
     "reg",
     "dsv",
     "erver",
-    "sv"
+    "sv",
+    "fdh"
   ]
 }
