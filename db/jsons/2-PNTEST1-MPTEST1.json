@@ -1,0 +1,27 @@
+{
+  "id": "2",
+  "createdAt": "",
+  "partName": "PNTEST1",
+  "manufacturer": "MTEST1",
+  "manufacturerPart": "MPTEST1",
+  "vendor": "VTEST1",
+  "vendorProductLink": "SDF",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/images/2-PNTEST1-MPTEST1_maxresdefault.jpg",
+  "imageType": "image/jpeg",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/datasheets/2-PNTEST1-MPTEST1_PCB 17-05.pdf",
+  "datasheetType": "application/pdf",
+  "avl_quantity": "1",
+  "binLocations": [
+    {
+      "bin": "A1",
+      "quantity": 10
+    }
+  ],
+  "customerRef": "SASSAS",
+  "description": "DSFVDSVSDV",
+  "reorderPoint": "5",
+  "reorderQty": "10",
+  "costPrice": "10",
+  "salePrice": "20",
+  "category": "Resistor"
+}
