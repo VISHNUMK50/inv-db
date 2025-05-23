@@ -1,0 +1,35 @@
+{
+  "id": "",
+  "createdAt": "2025-05-23T16:28:41.500Z",
+  "partName": "trial",
+  "manufacturer": "trial",
+  "manufacturerPart": "trial",
+  "vendor": "trial",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "avl_quantity": "81",
+  "binLocations": [
+    {
+      "bin": "a1",
+      "quantity": 23
+    },
+    {
+      "bin": "a2",
+      "quantity": 35
+    },
+    {
+      "bin": "v4",
+      "quantity": 23
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "32",
+  "reorderQty": "",
+  "costPrice": "12",
+  "salePrice": "23",
+  "category": "Resistor"
+}
