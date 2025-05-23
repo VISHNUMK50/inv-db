@@ -15,7 +15,8 @@
     "222222",
     "QWE",
     "ASDD",
-    "NMJH"
+    "NMJH",
+    "IOP"
   ],
   "manufacturers": [
     "MTEST1",
@@ -34,7 +35,8 @@
     "222222222",
     "QWE",
     "ASDD",
-    "HJK"
+    "HJK",
+    "IOP"
   ],
   "vendors": [
     "AUDIOS",
@@ -55,7 +57,8 @@
     "22222",
     "QWE",
     "ASDD",
-    "HJK"
+    "HJK",
+    "IOP"
   ],
   "categories": [
     "IC",
@@ -91,6 +94,7 @@
     "32432",
     "2222222222222",
     "ASDD",
-    "HJK"
+    "HJK",
+    "IOP"
   ]
 }
