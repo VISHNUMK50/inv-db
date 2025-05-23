@@ -1,0 +1,27 @@
+{
+  "id": "",
+  "createdAt": "2025-05-23T17:24:21.364Z",
+  "partName": "333333",
+  "manufacturer": "333333333",
+  "manufacturerPart": "3333333333",
+  "vendor": "33333",
+  "vendorProductLink": "333333333",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "avl_quantity": "33",
+  "binLocations": [
+    {
+      "bin": "D3",
+      "quantity": 33
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "333",
+  "reorderQty": "333",
+  "costPrice": "3333",
+  "salePrice": "33333333333",
+  "category": "LED"
+}
