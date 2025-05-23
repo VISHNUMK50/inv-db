@@ -17,7 +17,8 @@
     "ASDD",
     "NMJH",
     "IOP",
-    "sdf"
+    "sdf",
+    "SDFSAF"
   ],
   "manufacturers": [
     "MTEST1",
@@ -38,7 +39,8 @@
     "ASDD",
     "HJK",
     "IOP",
-    "sdf"
+    "sdf",
+    "ASDF"
   ],
   "vendors": [
     "AUDIOS",
@@ -61,7 +63,8 @@
     "ASDD",
     "HJK",
     "IOP",
-    "sdf"
+    "sdf",
+    "D12"
   ],
   "categories": [
     "IC",
@@ -99,6 +102,7 @@
     "ASDD",
     "HJK",
     "IOP",
-    "sdf"
+    "sdf",
+    "ASDF"
   ]
 }
