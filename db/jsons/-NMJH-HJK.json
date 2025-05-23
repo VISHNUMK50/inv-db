@@ -1,0 +1,27 @@
+{
+  "id": "",
+  "partName": "NMJH",
+  "createdAt": "2025-05-23T17:27:07.585Z",
+  "manufacturer": "HJK",
+  "manufacturerPart": "HJK",
+  "vendor": "HJK",
+  "vendorProductLink": "",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/images/-NMJH-HJK_unnamed.png",
+  "imageType": "image/png",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/datasheets/-NMJH-HJK_PCB 17-05.pdf",
+  "datasheetType": "application/pdf",
+  "avl_quantity": "32",
+  "binLocations": [
+    {
+      "bin": "32",
+      "quantity": 32
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "32",
+  "reorderQty": "32",
+  "costPrice": "23",
+  "salePrice": "32",
+  "category": "Resistor"
+}
