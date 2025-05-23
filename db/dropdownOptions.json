@@ -8,7 +8,8 @@
     "ASD",
     "VCBCV",
     "DSAF",
-    "23"
+    "23",
+    "trial"
   ],
   "manufacturers": [
     "MTEST1",
@@ -20,7 +21,8 @@
     "CVBCV",
     "ASD",
     "SDF",
-    "wqe"
+    "wqe",
+    "trial"
   ],
   "vendors": [
     "AUDIOS",
@@ -34,7 +36,8 @@
     "CVB",
     "A",
     "asd",
-    "qe"
+    "qe",
+    "trial"
   ],
   "categories": [
     "IC",
@@ -64,6 +67,7 @@
     "CVBCVB",
     "ASD",
     "dasd",
-    "qwe"
+    "qwe",
+    "trial"
   ]
 }
