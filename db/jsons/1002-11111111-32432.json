@@ -1,0 +1,27 @@
+{
+  "id": "1002",
+  "partName": "11111111",
+  "createdAt": "",
+  "manufacturer": "ASDASSS",
+  "manufacturerPart": "32432",
+  "vendor": "32432",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "avl_quantity": "324",
+  "binLocations": [
+    {
+      "bin": "C32",
+      "quantity": 324
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "233",
+  "reorderQty": "23",
+  "costPrice": "32",
+  "salePrice": "324",
+  "category": "Diode"
+}
