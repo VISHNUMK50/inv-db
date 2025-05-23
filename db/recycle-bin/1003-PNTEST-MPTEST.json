@@ -1,0 +1,31 @@
+{
+  "id": "",
+  "createdAt": "2025-05-23T18:30:58.933Z",
+  "partName": "PNTEST",
+  "manufacturer": "MTEST",
+  "manufacturerPart": "MPTEST",
+  "vendor": "VTEST",
+  "vendorProductLink": "VPLTEST",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/images/1003-PNTEST-MPTEST_right.png",
+  "imageType": "image/png",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/datasheets/1003-PNTEST-MPTEST_PCB 17-05.pdf",
+  "datasheetType": "application/pdf",
+  "avl_quantity": "200",
+  "binLocations": [
+    {
+      "bin": "TEST",
+      "quantity": 100
+    },
+    {
+      "bin": "TEST1",
+      "quantity": 100
+    }
+  ],
+  "customerRef": "CRTEST",
+  "description": "DTEST",
+  "reorderPoint": "10",
+  "reorderQty": "100",
+  "costPrice": "100",
+  "salePrice": "200",
+  "category": "Resistor"
+}
