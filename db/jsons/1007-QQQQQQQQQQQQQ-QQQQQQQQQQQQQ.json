@@ -1,0 +1,27 @@
+{
+  "id": "",
+  "partName": "QQQQQQQQQQQQQ",
+  "createdAt": "",
+  "manufacturer": "QQQQQQQQQQQQQ",
+  "manufacturerPart": "QQQQQQQQQQQQQ",
+  "vendor": "QQQQQQQQQQQQQ",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "avl_quantity": "32",
+  "binLocations": [
+    {
+      "bin": "C3",
+      "quantity": 32
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "32",
+  "reorderQty": "32",
+  "costPrice": "34",
+  "salePrice": "34",
+  "category": "Capacitor"
+}
