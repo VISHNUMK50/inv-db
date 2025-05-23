@@ -1,0 +1,27 @@
+{
+  "id": "",
+  "partName": "SSSSSSSSSSSSSSSSSSSSSSS",
+  "createdAt": "",
+  "manufacturer": "SSSSSSSSSSSSSSSSSSSSSSS",
+  "manufacturerPart": "SSSSSSSSSSSSSSSSSSSSSSS",
+  "vendor": "SSSSSSSSSSSSSSSSSSSSSSS",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "avl_quantity": "12",
+  "binLocations": [
+    {
+      "bin": "12",
+      "quantity": 12
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "12",
+  "reorderQty": "12",
+  "costPrice": "21",
+  "salePrice": "12",
+  "category": "Transistor"
+}
