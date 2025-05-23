@@ -19,7 +19,8 @@
     "IOP",
     "sdf",
     "SDFSAF",
-    "DZFDFFD"
+    "DZFDFFD",
+    "AAAAAAAAAAAAAAAAA"
   ],
   "manufacturers": [
     "MTEST1",
@@ -42,7 +43,8 @@
     "IOP",
     "sdf",
     "ASDF",
-    "DSFDFD"
+    "DSFDFD",
+    "AAAAAAAAAAAAAA"
   ],
   "vendors": [
     "AUDIOS",
@@ -67,7 +69,8 @@
     "IOP",
     "sdf",
     "D12",
-    "DSFDSF"
+    "DSFDSF",
+    "AAAAAAAAA"
   ],
   "categories": [
     "IC",
@@ -107,6 +110,7 @@
     "IOP",
     "sdf",
     "ASDF",
-    "SDFSFDS"
+    "SDFSFDS",
+    "AAAAAAAAAAAA"
   ]
 }
