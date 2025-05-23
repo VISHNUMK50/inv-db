@@ -14,11 +14,11 @@
   "binLocations": [
     {
       "bin": "d1",
-      "quantity": 50
+      "quantity": 30
     },
     {
       "bin": "d2",
-      "quantity": 30
+      "quantity": 50
     }
   ],
   "customerRef": "",
