@@ -1,6 +1,6 @@
 {
   "id": "2",
-  "createdAt": "",
+  "createdAt": "2025-05-23T14:52:09.279Z",
   "partName": "PNTEST1",
   "manufacturer": "MTEST1",
   "manufacturerPart": "MPTEST1",
@@ -10,7 +10,7 @@
   "imageType": "image/jpeg",
   "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/datasheets/2-PNTEST1-MPTEST1_PCB 17-05.pdf",
   "datasheetType": "application/pdf",
-  "avl_quantity": "1",
+  "avl_quantity": "0",
   "binLocations": [
     {
       "bin": "A1",
