@@ -1,0 +1,28 @@
+{
+  "id": "",
+  "partName": "ASD",
+  "createdAt": "2025-05-23T15:20:44.696Z",
+  "manufacturer": "AD",
+  "manufacturerPart": "AD",
+  "vendor": "DA",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "avl_quantity": "12",
+  "binLocations": [
+    {
+      "bin": "D1",
+      "quantity": 12
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "4",
+  "reorderQty": "123",
+  "costPrice": "21",
+  "salePrice": "32",
+  "category": "Transistor",
+  "quantity": "0"
+}
