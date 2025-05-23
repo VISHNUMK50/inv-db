@@ -1,0 +1,27 @@
+{
+  "id": "1002",
+  "createdAt": "",
+  "partName": "vishnu",
+  "manufacturer": "mkm",
+  "manufacturerPart": "mkkkkk",
+  "vendor": "vmm",
+  "vendorProductLink": "sd",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/images/1002-vishnu-mkkkkk_maxresdefault.jpg",
+  "imageType": "image/jpeg",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/datasheets/1002-vishnu-mkkkkk_RGB CNTRL.pdf",
+  "datasheetType": "application/pdf",
+  "avl_quantity": "10",
+  "binLocations": [
+    {
+      "bin": "a1",
+      "quantity": 10
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "5",
+  "reorderQty": "100",
+  "costPrice": "10",
+  "salePrice": "20",
+  "category": "Diode"
+}
