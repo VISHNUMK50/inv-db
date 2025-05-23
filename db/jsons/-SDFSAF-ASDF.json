@@ -1,0 +1,27 @@
+{
+  "id": "",
+  "createdAt": "",
+  "partName": "SDFSAF",
+  "manufacturer": "ASDF",
+  "manufacturerPart": "ASDF",
+  "vendor": "D12",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "avl_quantity": "21",
+  "binLocations": [
+    {
+      "bin": "12",
+      "quantity": 21
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "12",
+  "reorderQty": "21",
+  "costPrice": "213",
+  "salePrice": "",
+  "category": "Transistor"
+}
