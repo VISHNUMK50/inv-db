@@ -6,7 +6,8 @@
     "PNTEST3",
     "ASF",
     "ASD",
-    "VCBCV"
+    "VCBCV",
+    "DSAF"
   ],
   "manufacturers": [
     "MTEST1",
@@ -16,7 +17,8 @@
     "ASF",
     "AD",
     "CVBCV",
-    "ASD"
+    "ASD",
+    "SDF"
   ],
   "vendors": [
     "AUDIOS",
@@ -28,7 +30,8 @@
     "ASF",
     "DA",
     "CVB",
-    "A"
+    "A",
+    "asd"
   ],
   "categories": [
     "IC",
@@ -56,6 +59,7 @@
     "ASF",
     "AD",
     "CVBCVB",
-    "ASD"
+    "ASD",
+    "dasd"
   ]
 }
