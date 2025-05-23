@@ -1,0 +1,27 @@
+{
+  "id": "",
+  "partName": "QWE",
+  "createdAt": "2025-05-23T17:25:33.094Z",
+  "manufacturer": "QWE",
+  "manufacturerPart": "QWE",
+  "vendor": "QWE",
+  "vendorProductLink": "QWE",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "avl_quantity": "21",
+  "binLocations": [
+    {
+      "bin": "E21",
+      "quantity": 21
+    }
+  ],
+  "customerRef": "QWE",
+  "description": "QWE",
+  "reorderPoint": "12",
+  "reorderQty": "21",
+  "costPrice": "12",
+  "salePrice": "12",
+  "category": "Transistor"
+}
