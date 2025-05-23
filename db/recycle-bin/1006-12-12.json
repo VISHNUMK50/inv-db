@@ -1,0 +1,27 @@
+{
+  "id": "1006",
+  "createdAt": "2025-05-23T18:40:08.610Z",
+  "partName": "12",
+  "manufacturer": "S12",
+  "manufacturerPart": "12",
+  "vendor": "12",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "avl_quantity": "12",
+  "binLocations": [
+    {
+      "bin": "12",
+      "quantity": 12
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "12",
+  "reorderQty": "",
+  "costPrice": "12",
+  "salePrice": "",
+  "category": "Capacitor"
+}
