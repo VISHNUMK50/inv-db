@@ -1,0 +1,27 @@
+{
+  "id": "",
+  "createdAt": "2025-05-23T18:38:06.649Z",
+  "partName": "S",
+  "manufacturer": "S",
+  "manufacturerPart": "S",
+  "vendor": "S",
+  "vendorProductLink": "S",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "avl_quantity": "21",
+  "binLocations": [
+    {
+      "bin": "12",
+      "quantity": 21
+    }
+  ],
+  "customerRef": "S",
+  "description": "S",
+  "reorderPoint": "21",
+  "reorderQty": "21",
+  "costPrice": "12",
+  "salePrice": "12",
+  "category": "Capacitor"
+}
