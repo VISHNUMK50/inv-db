@@ -1,15 +1,18 @@
 {
   "partNames": [
     "1",
-    "2"
+    "2",
+    "3"
   ],
   "manufacturers": [
     "1",
-    "2"
+    "2",
+    "3"
   ],
   "vendors": [
     "1",
-    "2"
+    "2",
+    "3"
   ],
   "categories": [
     "IC",
@@ -30,6 +33,7 @@
   ],
   "manufacturerParts": [
     "1",
-    "2"
+    "2",
+    "3"
   ]
 }
