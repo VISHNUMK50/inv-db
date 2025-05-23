@@ -1,67 +1,12 @@
 {
   "partNames": [
-    "PNTEST1",
-    "PNTEST2",
-    "ASCA",
-    "PNTEST3",
-    "ASF",
-    "ASD",
-    "VCBCV",
-    "DSAF",
-    "23",
-    "trial",
-    "vishnu",
-    "11111111",
-    "222222",
-    "QWE",
-    "ASDD",
-    "NMJH",
-    "IOP",
-    "12"
+    
   ],
   "manufacturers": [
-    "MTEST1",
-    "MTEST2",
-    "ASDCA",
-    "MTEST3",
-    "ASF",
-    "AD",
-    "CVBCV",
-    "ASD",
-    "SDF",
-    "wqe",
-    "trial",
-    "mkm",
-    "ASDASSS",
-    "222222222",
-    "QWE",
-    "ASDD",
-    "HJK",
-    "IOP",
-    "S12"
+    
   ],
   "vendors": [
-    "AUDIOS",
-    "KTRON",
-    "VTEST1",
-    "VTEST2",
-    "ASDA",
-    "FAD",
-    "ASF",
-    "DA",
-    "CVB",
-    "A",
-    "asd",
-    "qe",
-    "trial",
-    "vmm",
-    "32432",
-    "22222",
-    "QWE",
-    "ASDD",
-    "HJK",
-    "IOP",
-    "12"
+    
   ],
   "categories": [
     "IC",
@@ -81,24 +26,6 @@
     "Other"
   ],
   "manufacturerParts": [
-    "Generic",
-    "MPTEST1",
-    "MPTEST2",
-    "ASDAS",
-    "MPTEST3",
-    "ASF",
-    "AD",
-    "CVBCVB",
-    "ASD",
-    "dasd",
-    "qwe",
-    "trial",
-    "mkkkkk",
-    "32432",
-    "2222222222222",
-    "ASDD",
-    "HJK",
-    "IOP",
-    "12"
+    
   ]
 }
