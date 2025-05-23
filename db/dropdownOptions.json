@@ -20,7 +20,8 @@
     "sdf",
     "SDFSAF",
     "DZFDFFD",
-    "AAAAAAAAAAAAAAAAA"
+    "AAAAAAAAAAAAAAAAA",
+    "SSSSSSSSSSSSSSSSSSSSSSS"
   ],
   "manufacturers": [
     "MTEST1",
@@ -44,7 +45,8 @@
     "sdf",
     "ASDF",
     "DSFDFD",
-    "AAAAAAAAAAAAAA"
+    "AAAAAAAAAAAAAA",
+    "SSSSSSSSSSSSSSSSSSSSSSS"
   ],
   "vendors": [
     "AUDIOS",
@@ -70,7 +72,8 @@
     "sdf",
     "D12",
     "DSFDSF",
-    "AAAAAAAAA"
+    "AAAAAAAAA",
+    "SSSSSSSSSSSSSSSSSSSSSSS"
   ],
   "categories": [
     "IC",
@@ -111,6 +114,7 @@
     "sdf",
     "ASDF",
     "SDFSFDS",
-    "AAAAAAAAAAAA"
+    "AAAAAAAAAAAA",
+    "SSSSSSSSSSSSSSSSSSSSSSS"
   ]
 }
