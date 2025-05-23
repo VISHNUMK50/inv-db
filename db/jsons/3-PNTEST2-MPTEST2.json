@@ -1,0 +1,27 @@
+{
+  "id": "3",
+  "createdAt": "2025-05-23T14:56:32.563Z",
+  "partName": "PNTEST2",
+  "manufacturer": "MTEST2",
+  "manufacturerPart": "MPTEST2",
+  "vendor": "VTEST2",
+  "vendorProductLink": "VPL2",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "avl_quantity": "0",
+  "binLocations": [
+    {
+      "bin": "A1",
+      "quantity": 50
+    }
+  ],
+  "customerRef": "DSAD",
+  "description": "SDAFAS",
+  "reorderPoint": "10",
+  "reorderQty": "100",
+  "costPrice": "50",
+  "salePrice": "100",
+  "category": "IC"
+}
