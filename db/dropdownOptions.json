@@ -1,14 +1,17 @@
 {
   "partNames": [
-    "PNTEST1"
+    "PNTEST1",
+    "PNTEST2"
   ],
   "manufacturers": [
-    "MTEST1"
+    "MTEST1",
+    "MTEST2"
   ],
   "vendors": [
     "AUDIOS",
     "KTRON",
-    "VTEST1"
+    "VTEST1",
+    "VTEST2"
   ],
   "categories": [
     "IC",
@@ -29,6 +32,7 @@
   ],
   "manufacturerParts": [
     "Generic",
-    "MPTEST1"
+    "MPTEST1",
+    "MPTEST2"
   ]
 }
