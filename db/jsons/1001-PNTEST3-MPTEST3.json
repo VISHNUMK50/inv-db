@@ -1,6 +1,6 @@
 {
   "id": "1001",
-  "createdAt": "",
+  "createdAt": "2025-05-23T15:08:06.002Z",
   "partName": "PNTEST3",
   "manufacturer": "MTEST3",
   "manufacturerPart": "MPTEST3",
@@ -10,7 +10,7 @@
   "imageType": "",
   "datasheet": "",
   "datasheetType": "",
-  "avl_quantity": "2",
+  "avl_quantity": "20",
   "binLocations": [
     {
       "bin": "A1",
