@@ -1,0 +1,27 @@
+{
+  "id": "",
+  "partName": "DZFDFFD",
+  "createdAt": "",
+  "manufacturer": "DSFDFD",
+  "manufacturerPart": "SDFSFDS",
+  "vendor": "DSFDSF",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "avl_quantity": "324",
+  "binLocations": [
+    {
+      "bin": "23R",
+      "quantity": 324
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "324",
+  "reorderQty": "23",
+  "costPrice": "324",
+  "salePrice": "32342",
+  "category": "Capacitor"
+}
