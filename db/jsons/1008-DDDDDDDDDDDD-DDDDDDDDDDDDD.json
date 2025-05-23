@@ -1,0 +1,27 @@
+{
+  "id": "",
+  "partName": "DDDDDDDDDDDD",
+  "createdAt": "",
+  "manufacturer": "DDDDDDDDDDDD",
+  "manufacturerPart": "DDDDDDDDDDDDD",
+  "vendor": "DDDDDDDDDDDD",
+  "vendorProductLink": "",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/images/1008-DDDDDDDDDDDD-DDDDDDDDDDDDD_right.png",
+  "imageType": "image/png",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/datasheets/1008-DDDDDDDDDDDD-DDDDDDDDDDDDD_PCB 17-05.pdf",
+  "datasheetType": "application/pdf",
+  "avl_quantity": "213",
+  "binLocations": [
+    {
+      "bin": "213",
+      "quantity": 213
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "21",
+  "reorderQty": "21",
+  "costPrice": "231",
+  "salePrice": "21",
+  "category": "Diode"
+}
