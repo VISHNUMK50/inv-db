@@ -15,7 +15,8 @@
     "MTEST3",
     "ASF",
     "AD",
-    "CVBCV"
+    "CVBCV",
+    "ASD"
   ],
   "vendors": [
     "AUDIOS",
@@ -26,7 +27,8 @@
     "FAD",
     "ASF",
     "DA",
-    "CVB"
+    "CVB",
+    "A"
   ],
   "categories": [
     "IC",
@@ -53,6 +55,7 @@
     "MPTEST3",
     "ASF",
     "AD",
-    "CVBCVB"
+    "CVBCVB",
+    "ASD"
   ]
 }
