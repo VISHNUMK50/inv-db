@@ -1,0 +1,22 @@
+{
+  "id": "",
+  "createdAt": "2025-05-23T15:49:20.257Z",
+  "partName": "DSAF",
+  "manufacturer": "SDF",
+  "manufacturerPart": "dasd",
+  "vendor": "asd",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "avl_quantity": "0",
+  "binLocations": [],
+  "customerRef": "",
+  "description": "da",
+  "reorderPoint": "32",
+  "reorderQty": "",
+  "costPrice": "",
+  "salePrice": "",
+  "category": "Resistor"
+}
