@@ -1,0 +1,27 @@
+{
+  "id": "",
+  "createdAt": "",
+  "partName": "3",
+  "manufacturer": "3",
+  "manufacturerPart": "3",
+  "vendor": "3",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "avl_quantity": "23",
+  "binLocations": [
+    {
+      "bin": "d2",
+      "quantity": 23
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "3",
+  "reorderQty": "23",
+  "costPrice": "23",
+  "salePrice": "23",
+  "category": "Capacitor"
+}
