@@ -6,9 +6,9 @@
   "manufacturerPart": "5",
   "vendor": "5",
   "vendorProductLink": "5",
-  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/images/1011-5-5_right.png",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/images/1011-5-5-right.png",
   "imageType": "image/png",
-  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/datasheets/1011-5-5_PCB 17-05.pdf",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/datasheets/1011-5-5-PCB 17-05.pdf",
   "datasheetType": "application/pdf",
   "avl_quantity": "5",
   "binLocations": [
