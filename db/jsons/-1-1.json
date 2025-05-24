@@ -14,7 +14,7 @@
   "binLocations": [
     {
       "bin": "1",
-      "quantity": "0"
+      "quantity": "0100"
     }
   ],
   "customerRef": "",
@@ -24,5 +24,6 @@
   "costPrice": "1",
   "salePrice": "0.99",
   "category": "Battery",
-  "quantity": 0
+  "quantity": 100,
+  "lastModified": "2025-05-24T11:20:14.893Z"
 }
