@@ -1,0 +1,28 @@
+{
+  "id": "",
+  "createdAt": "2025-05-23T19:53:58.616Z",
+  "partName": "3234",
+  "manufacturer": "3342",
+  "manufacturerPart": "3234",
+  "vendor": "3234",
+  "vendorProductLink": "",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/images/-3234-3234_left.png",
+  "imageType": "image/png",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/datasheets/-3234-3234_PCB 17-05.pdf",
+  "datasheetType": "application/pdf",
+  "avl_quantity": "23",
+  "binLocations": [
+    {
+      "bin": "d2",
+      "quantity": 23
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "3",
+  "reorderQty": "23",
+  "costPrice": "23",
+  "salePrice": "23",
+  "category": "Capacitor",
+  "lastModified": "2025-05-24T11:30:12.875Z"
+}
