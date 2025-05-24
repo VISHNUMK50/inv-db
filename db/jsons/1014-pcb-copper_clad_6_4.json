@@ -1,0 +1,27 @@
+{
+  "id": "1014",
+  "createdAt": "",
+  "partName": "pcb",
+  "manufacturer": "generic",
+  "manufacturerPart": "copper clad 6*4",
+  "vendor": "audios",
+  "vendorProductLink": "",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/images/1014-pcb-copper_clad_6_4-maxresdefault (1).jpg",
+  "imageType": "image/jpeg",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/datasheets/1014-pcb-copper_clad_6_4-SCH_Schematic1_1-Block Diagram_2025-05-04.pdf",
+  "datasheetType": "application/pdf",
+  "avl_quantity": "20",
+  "binLocations": [
+    {
+      "bin": "a1",
+      "quantity": 20
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "10",
+  "reorderQty": "20",
+  "costPrice": "15",
+  "salePrice": "30",
+  "category": "PCB"
+}
