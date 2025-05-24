@@ -1,0 +1,29 @@
+{
+  "id": "",
+  "createdAt": "2025-05-23T19:04:16.319Z",
+  "partName": "1",
+  "manufacturer": "1",
+  "manufacturerPart": "1",
+  "vendor": "1",
+  "vendorProductLink": "1",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "avl_quantity": "1",
+  "binLocations": [
+    {
+      "bin": "1",
+      "quantity": "10"
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "20",
+  "reorderQty": "1",
+  "costPrice": "1",
+  "salePrice": "0.99",
+  "category": "Battery",
+  "quantity": 10,
+  "lastModified": "2025-05-24T11:21:30.305Z"
+}
