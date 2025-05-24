@@ -1,0 +1,27 @@
+{
+  "id": "1013",
+  "createdAt": "",
+  "partName": "7",
+  "manufacturer": "7",
+  "manufacturerPart": "7",
+  "vendor": "7",
+  "vendorProductLink": "",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/images/1013-7-7-[pgm.png]",
+  "imageType": "image/png",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/datasheets/1013-7-7-{screenbar'.pdf}",
+  "datasheetType": "application/pdf",
+  "avl_quantity": "7",
+  "binLocations": [
+    {
+      "bin": "7",
+      "quantity": 7
+    }
+  ],
+  "customerRef": "7",
+  "description": "",
+  "reorderPoint": "7",
+  "reorderQty": "7",
+  "costPrice": "7",
+  "salePrice": "7",
+  "category": "Battery"
+}
