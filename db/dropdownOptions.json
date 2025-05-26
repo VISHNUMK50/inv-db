@@ -7,7 +7,8 @@
     "5",
     "6",
     "7",
-    "pcb"
+    "pcb",
+    "s"
   ],
   "manufacturers": [
     "1",
@@ -17,7 +18,8 @@
     "5",
     "6",
     "7",
-    "generic"
+    "generic",
+    "s"
   ],
   "vendors": [
     "1",
@@ -27,7 +29,8 @@
     "5",
     "6",
     "7",
-    "audios"
+    "audios",
+    "s"
   ],
   "categories": [
     "IC",
@@ -54,6 +57,7 @@
     "5",
     "6",
     "7",
-    "copper clad 6*4"
+    "copper clad 6*4",
+    "s"
   ]
 }
