@@ -9,7 +9,8 @@
     "7",
     "pcb",
     "s",
-    "d"
+    "d",
+    "sewr"
   ],
   "manufacturers": [
     "1",
@@ -21,7 +22,8 @@
     "7",
     "generic",
     "s",
-    "d"
+    "d",
+    "wer"
   ],
   "vendors": [
     "1",
@@ -33,7 +35,8 @@
     "7",
     "audios",
     "s",
-    "d"
+    "d",
+    "ewr"
   ],
   "categories": [
     "IC",
@@ -62,6 +65,7 @@
     "7",
     "copper clad 6*4",
     "s",
-    "d"
+    "d",
+    "ewr"
   ]
 }
