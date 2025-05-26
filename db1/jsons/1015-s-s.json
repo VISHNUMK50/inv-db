@@ -1,0 +1,27 @@
+{
+  "id": "1015",
+  "createdAt": "",
+  "partName": "s",
+  "manufacturer": "s",
+  "manufacturerPart": "s",
+  "vendor": "s",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "avl_quantity": "2",
+  "binLocations": [
+    {
+      "bin": "2",
+      "quantity": 2
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "2",
+  "reorderQty": "",
+  "costPrice": "2",
+  "salePrice": "2",
+  "category": "Tool"
+}
