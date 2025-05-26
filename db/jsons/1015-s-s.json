@@ -1,0 +1,27 @@
+{
+  "id": "1015",
+  "createdAt": "",
+  "partName": "s",
+  "manufacturer": "s",
+  "manufacturerPart": "s",
+  "vendor": "s",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "avl_quantity": "3",
+  "binLocations": [
+    {
+      "bin": "32",
+      "quantity": 3
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "3",
+  "reorderQty": "3",
+  "costPrice": "23",
+  "salePrice": "23",
+  "category": "Resistor"
+}
