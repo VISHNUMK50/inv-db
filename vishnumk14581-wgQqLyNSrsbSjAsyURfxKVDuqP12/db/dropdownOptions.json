@@ -1,0 +1,35 @@
+{
+  "partNames": [
+    "s",
+    "jhl"
+  ],
+  "manufacturers": [
+    "s",
+    "hl"
+  ],
+  "vendors": [
+    "s",
+    "hkl"
+  ],
+  "manufacturerParts": [
+    "s",
+    "hkl"
+  ],
+  "categories": [
+    "IC",
+    "Resistor",
+    "Capacitor",
+    "Transistor",
+    "Diode",
+    "LED",
+    "Connector",
+    "Switch",
+    "Sensor",
+    "Microcontroller",
+    "PCB",
+    "Battery",
+    "Module",
+    "Tool",
+    "Other"
+  ]
+}
