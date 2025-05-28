@@ -1,0 +1,27 @@
+{
+  "id": "1003",
+  "partName": "54254",
+  "createdAt": "",
+  "manufacturer": "24",
+  "manufacturerPart": "52",
+  "vendor": "45",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "avl_quantity": "45",
+  "binLocations": [
+    {
+      "bin": "54",
+      "quantity": 45
+    }
+  ],
+  "customerRef": "4",
+  "description": "",
+  "reorderPoint": "45",
+  "reorderQty": "",
+  "costPrice": "45",
+  "salePrice": "",
+  "category": "PCB"
+}
