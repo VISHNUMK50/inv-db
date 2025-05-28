@@ -1,0 +1,27 @@
+{
+  "id": "1002",
+  "createdAt": "",
+  "partName": "qwe",
+  "manufacturer": "qwe",
+  "manufacturerPart": "qwe",
+  "vendor": "qwe",
+  "vendorProductLink": "qwe",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/visidtechinnovations-TRyYNfCpzFSLddUvkjB54PQELtv1/db/images/1002-qwe-qwe-right.png",
+  "imageType": "image/png",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/visidtechinnovations-TRyYNfCpzFSLddUvkjB54PQELtv1/db/datasheets/1002-qwe-qwe-PCB 17-05.pdf",
+  "datasheetType": "application/pdf",
+  "avl_quantity": "12",
+  "binLocations": [
+    {
+      "bin": "12",
+      "quantity": 12
+    }
+  ],
+  "customerRef": "qwe",
+  "description": "qwe",
+  "reorderPoint": "12",
+  "reorderQty": "",
+  "costPrice": "12",
+  "salePrice": "12",
+  "category": "Battery"
+}
