@@ -1,0 +1,35 @@
+{
+  "partNames": [
+    "s",
+    "qwe"
+  ],
+  "manufacturers": [
+    "s",
+    "qwe"
+  ],
+  "vendors": [
+    "s",
+    "qwe"
+  ],
+  "manufacturerParts": [
+    "s",
+    "qwe"
+  ],
+  "categories": [
+    "IC",
+    "Resistor",
+    "Capacitor",
+    "Transistor",
+    "Diode",
+    "LED",
+    "Connector",
+    "Switch",
+    "Sensor",
+    "Microcontroller",
+    "PCB",
+    "Battery",
+    "Module",
+    "Tool",
+    "Other"
+  ]
+}
