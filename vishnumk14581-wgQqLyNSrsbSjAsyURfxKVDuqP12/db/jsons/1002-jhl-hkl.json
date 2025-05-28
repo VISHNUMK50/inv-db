@@ -1,0 +1,27 @@
+{
+  "id": "1002",
+  "createdAt": "",
+  "partName": "jhl",
+  "manufacturer": "hl",
+  "manufacturerPart": "hkl",
+  "vendor": "hkl",
+  "vendorProductLink": "lj",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "avl_quantity": "45",
+  "binLocations": [
+    {
+      "bin": "45",
+      "quantity": 45
+    }
+  ],
+  "customerRef": "hl",
+  "description": "",
+  "reorderPoint": "54",
+  "reorderQty": "",
+  "costPrice": "5454",
+  "salePrice": "",
+  "category": "Battery"
+}
