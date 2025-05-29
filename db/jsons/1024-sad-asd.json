@@ -1,0 +1,27 @@
+{
+  "id": "1024",
+  "createdAt": "",
+  "partName": "sad",
+  "manufacturer": "dsa",
+  "manufacturerPart": "asd",
+  "vendor": "ads",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "avl_quantity": "142",
+  "binLocations": [
+    {
+      "bin": "214",
+      "quantity": 142
+    }
+  ],
+  "customerRef": "asd",
+  "description": "",
+  "reorderPoint": "124",
+  "reorderQty": "",
+  "costPrice": "132",
+  "salePrice": "240.98",
+  "category": "Battery"
+}
