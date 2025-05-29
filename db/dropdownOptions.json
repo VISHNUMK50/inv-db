@@ -11,7 +11,8 @@
     "s",
     "d",
     "sewr",
-    "dev"
+    "dev",
+    "wqe"
   ],
   "manufacturers": [
     "1",
@@ -25,7 +26,8 @@
     "s",
     "d",
     "wer",
-    "dev"
+    "dev",
+    "wqe"
   ],
   "vendors": [
     "1",
@@ -39,7 +41,8 @@
     "s",
     "d",
     "ewr",
-    "dev"
+    "dev",
+    "wqe"
   ],
   "categories": [
     "IC",
@@ -70,6 +73,7 @@
     "s",
     "d",
     "ewr",
-    "dev"
+    "dev",
+    "wqe"
   ]
 }
