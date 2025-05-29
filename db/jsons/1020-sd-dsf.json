@@ -1,0 +1,27 @@
+{
+  "id": "1020",
+  "partName": "sd",
+  "createdAt": "",
+  "manufacturer": "dfs",
+  "manufacturerPart": "dsf",
+  "vendor": "sdf",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "avl_quantity": "32",
+  "binLocations": [
+    {
+      "bin": "32",
+      "quantity": 32
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "3",
+  "reorderQty": "",
+  "costPrice": "3",
+  "salePrice": "",
+  "category": "PCB"
+}
