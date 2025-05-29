@@ -1,0 +1,27 @@
+{
+  "id": "1002",
+  "createdAt": "",
+  "partName": "123",
+  "manufacturer": "132",
+  "manufacturerPart": "132",
+  "vendor": "132",
+  "vendorProductLink": "",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/12a3-OYoLtHIuXoU3NJezD2LPQ5UEPhq1/db/images/1002-123-132-left.png",
+  "imageType": "image/png",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/12a3-OYoLtHIuXoU3NJezD2LPQ5UEPhq1/db/datasheets/1002-123-132-PCB 17-05.pdf",
+  "datasheetType": "application/pdf",
+  "avl_quantity": "129",
+  "binLocations": [
+    {
+      "bin": "132",
+      "quantity": 129
+    }
+  ],
+  "customerRef": "132",
+  "description": "",
+  "reorderPoint": "13",
+  "reorderQty": "",
+  "costPrice": "13",
+  "salePrice": "",
+  "category": "Microcontroller"
+}
