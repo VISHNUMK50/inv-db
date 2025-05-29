@@ -1,0 +1,27 @@
+{
+  "id": "1021",
+  "createdAt": "",
+  "partName": "12",
+  "manufacturer": "21",
+  "manufacturerPart": "21",
+  "vendor": "21",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "avl_quantity": "21",
+  "binLocations": [
+    {
+      "bin": "21",
+      "quantity": 21
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "21",
+  "reorderQty": "",
+  "costPrice": "21",
+  "salePrice": "",
+  "category": "Battery"
+}
