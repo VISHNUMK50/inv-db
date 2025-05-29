@@ -1,0 +1,27 @@
+{
+  "id": "1001",
+  "createdAt": "",
+  "partName": "wqeqwe",
+  "manufacturer": "dsfsf",
+  "manufacturerPart": "sdfdsf",
+  "vendor": "dsfds",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "avl_quantity": "324",
+  "binLocations": [
+    {
+      "bin": "3e",
+      "quantity": 324
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "31",
+  "reorderQty": "",
+  "costPrice": "32",
+  "salePrice": "",
+  "category": "Battery"
+}
