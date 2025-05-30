@@ -1,0 +1,27 @@
+{
+  "id": "1010",
+  "createdAt": "",
+  "partName": "TEST6",
+  "manufacturer": "TEST6",
+  "manufacturerPart": "TEST6",
+  "vendor": "TEST6",
+  "vendorProductLink": "TEST6",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "avl_quantity": "123",
+  "binLocations": [
+    {
+      "bin": "123",
+      "quantity": 123
+    }
+  ],
+  "customerRef": "TEST6",
+  "description": "TEST6",
+  "reorderPoint": "123",
+  "reorderQty": "123",
+  "costPrice": "123",
+  "salePrice": "122.99",
+  "category": "Microcontroller"
+}
