@@ -1,0 +1,27 @@
+{
+  "id": "1005",
+  "createdAt": "",
+  "partName": "tdf",
+  "manufacturer": "dsf",
+  "manufacturerPart": "sdf",
+  "vendor": "fsd",
+  "vendorProductLink": "",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "avl_quantity": "234",
+  "binLocations": [
+    {
+      "bin": "234",
+      "quantity": 234
+    }
+  ],
+  "customerRef": "",
+  "description": "",
+  "reorderPoint": "324",
+  "reorderQty": "",
+  "costPrice": "324",
+  "salePrice": "",
+  "category": "Sensor"
+}
