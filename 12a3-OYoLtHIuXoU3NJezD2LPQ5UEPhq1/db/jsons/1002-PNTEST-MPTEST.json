@@ -6,9 +6,9 @@
   "manufacturerPart": "MPTEST",
   "vendor": "VTEST",
   "vendorProductLink": "VPLTEST",
-  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/12a3-OYoLtHIuXoU3NJezD2LPQ5UEPhq1/db/images/1002-PNTEST-MPTEST_front.png",
-  "imageType": "image/png",
-  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/12a3-OYoLtHIuXoU3NJezD2LPQ5UEPhq1/db/datasheets/1002-PNTEST-MPTEST_Untitled-1.pdf",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/12a3-OYoLtHIuXoU3NJezD2LPQ5UEPhq1/db/images/1002-PNTEST-MPTEST_WhatsApp Image 2025-05-27 at 21.05.27_0803edde.jpg",
+  "imageType": "image/jpeg",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/12a3-OYoLtHIuXoU3NJezD2LPQ5UEPhq1/db/datasheets/1002-PNTEST-MPTEST_pca9555.pdf",
   "datasheetType": "application/pdf",
   "avl_quantity": "129",
   "binLocations": [
@@ -25,5 +25,5 @@
   "salePrice": "456",
   "category": "CTEST",
   "quantity": 123,
-  "lastModified": "2025-05-30T14:01:20.620Z"
+  "lastModified": "2025-05-30T14:33:41.126Z"
 }
