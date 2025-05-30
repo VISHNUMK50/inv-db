@@ -25,7 +25,9 @@
   "description": "sdf0",
   "reorderPoint": "100",
   "reorderQty": "120",
-  "costPrice": "120",
+  "costPrice": "1202",
   "salePrice": "120",
-  "category": "Microcontroller"
+  "category": "Microcontroller",
+  "quantity": 231,
+  "lastModified": "2025-05-30T13:37:52.211Z"
 }
