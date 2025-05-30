@@ -1,0 +1,27 @@
+{
+  "id": "1013",
+  "createdAt": "",
+  "partName": "test9",
+  "manufacturer": "test9",
+  "manufacturerPart": "test9",
+  "vendor": "test9",
+  "vendorProductLink": "test9",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/12a3-OYoLtHIuXoU3NJezD2LPQ5UEPhq1/db/images/1013-test9-test9-left.png",
+  "imageType": "image/png",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/12a3-OYoLtHIuXoU3NJezD2LPQ5UEPhq1/db/datasheets/1013-test9-test9-PCB 17-05.pdf",
+  "datasheetType": "application/pdf",
+  "avl_quantity": "123",
+  "binLocations": [
+    {
+      "bin": "321",
+      "quantity": 123
+    }
+  ],
+  "customerRef": "test9",
+  "description": "test9",
+  "reorderPoint": "123",
+  "reorderQty": "132",
+  "costPrice": "213",
+  "salePrice": "212.99",
+  "category": "Module"
+}
