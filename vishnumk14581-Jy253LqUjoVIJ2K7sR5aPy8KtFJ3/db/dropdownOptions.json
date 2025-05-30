@@ -1,6 +1,7 @@
 {
   "partNames": [
-    "Test"
+    "Test",
+    "TEST2"
   ],
   "manufacturers": [
     "Test"
@@ -9,7 +10,8 @@
     "Test"
   ],
   "manufacturerParts": [
-    "Test"
+    "Test",
+    "Test2"
   ],
   "categories": [
     "Test"
