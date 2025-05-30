@@ -36,7 +36,8 @@
     "test13",
     "test14",
     "test15",
-    "test16"
+    "test16",
+    "ptest21"
   ],
   "manufacturers": [
     "1",
@@ -75,7 +76,8 @@
     "test13",
     "test14",
     "test15",
-    "test16"
+    "test16",
+    "mtest21"
   ],
   "vendors": [
     "1",
@@ -115,7 +117,8 @@
     "test13",
     "test14",
     "test15",
-    "test16"
+    "test16",
+    "vtest21"
   ],
   "categories": [
     "IC",
@@ -173,6 +176,7 @@
     "test13",
     "test14",
     "test15",
-    "test16"
+    "test16",
+    "mptest21"
   ]
 }
