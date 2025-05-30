@@ -1,0 +1,27 @@
+{
+  "id": "1016",
+  "createdAt": "2025-05-30T12:40:41.699Z",
+  "partName": "test16",
+  "manufacturer": "test16",
+  "manufacturerPart": "test16",
+  "vendor": "test16",
+  "vendorProductLink": "test16",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/12a3-OYoLtHIuXoU3NJezD2LPQ5UEPhq1/db/images/1016-test16-test16-front.png",
+  "imageType": "image/png",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/12a3-OYoLtHIuXoU3NJezD2LPQ5UEPhq1/db/datasheets/1016-test16-test16-PCB 17-05.pdf",
+  "datasheetType": "application/pdf",
+  "avl_quantity": "123",
+  "binLocations": [
+    {
+      "bin": "123",
+      "quantity": 123
+    }
+  ],
+  "customerRef": "test16",
+  "description": "test16",
+  "reorderPoint": "123",
+  "reorderQty": "123",
+  "costPrice": "123",
+  "salePrice": "123",
+  "category": "test16"
+}
