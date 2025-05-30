@@ -1,0 +1,27 @@
+{
+  "id": "1001",
+  "createdAt": "2025-05-30T22:14:35.633Z",
+  "partName": "Test",
+  "manufacturer": "Test",
+  "manufacturerPart": "Test",
+  "vendor": "Test",
+  "vendorProductLink": "",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/vishnumk14581-Jy253LqUjoVIJ2K7sR5aPy8KtFJ3/db/images/1001-Test-Test-IMG_20250529_105823_216.webp",
+  "imageType": "image/webp",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/vishnumk14581-Jy253LqUjoVIJ2K7sR5aPy8KtFJ3/db/datasheets/1001-Test-Test-Aurora invitation text-D3.pdf",
+  "datasheetType": "application/pdf",
+  "avl_quantity": "10",
+  "binLocations": [
+    {
+      "bin": "A1",
+      "quantity": 10
+    }
+  ],
+  "customerRef": "Test",
+  "description": "",
+  "reorderPoint": "5",
+  "reorderQty": "10",
+  "costPrice": "10",
+  "salePrice": "20",
+  "category": "Test"
+}
