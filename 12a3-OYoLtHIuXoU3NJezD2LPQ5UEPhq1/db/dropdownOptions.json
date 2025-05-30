@@ -28,7 +28,8 @@
     "TEST4",
     "TEST5",
     "TEST6",
-    "TEST7"
+    "TEST7",
+    "TEST8"
   ],
   "manufacturers": [
     "1",
@@ -59,7 +60,8 @@
     "TEST4",
     "TEST5",
     "TEST6",
-    "TEST7"
+    "TEST7",
+    "TEST8"
   ],
   "vendors": [
     "1",
@@ -91,7 +93,8 @@
     "TEST4",
     "TEST5",
     "TEST6",
-    "TEST7"
+    "TEST7",
+    "TEST8"
   ],
   "categories": [
     "IC",
@@ -139,6 +142,7 @@
     "TEST4",
     "TEST5",
     "TEST6",
-    "TEST7"
+    "TEST7",
+    "TEST8"
   ]
 }
