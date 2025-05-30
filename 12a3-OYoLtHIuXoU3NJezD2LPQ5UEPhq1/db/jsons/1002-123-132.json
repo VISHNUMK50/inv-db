@@ -21,7 +21,9 @@
   "description": "",
   "reorderPoint": "13",
   "reorderQty": "",
-  "costPrice": "13",
-  "salePrice": "",
-  "category": "Microcontroller"
+  "costPrice": "130",
+  "salePrice": "500",
+  "category": "Microcontroller",
+  "quantity": 129,
+  "lastModified": "2025-05-30T13:39:28.719Z"
 }
