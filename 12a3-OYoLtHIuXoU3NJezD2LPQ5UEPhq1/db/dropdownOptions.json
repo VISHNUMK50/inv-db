@@ -30,7 +30,8 @@
     "TEST6",
     "TEST7",
     "TEST8",
-    "test9"
+    "test9",
+    "test11"
   ],
   "manufacturers": [
     "1",
@@ -63,7 +64,8 @@
     "TEST6",
     "TEST7",
     "TEST8",
-    "test9"
+    "test9",
+    "test11"
   ],
   "vendors": [
     "1",
@@ -97,7 +99,8 @@
     "TEST6",
     "TEST7",
     "TEST8",
-    "test9"
+    "test9",
+    "test11"
   ],
   "categories": [
     "IC",
@@ -147,6 +150,7 @@
     "TEST6",
     "TEST7",
     "TEST8",
-    "test9"
+    "test9",
+    "test11"
   ]
 }
