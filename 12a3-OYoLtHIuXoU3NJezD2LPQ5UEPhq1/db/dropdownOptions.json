@@ -22,7 +22,8 @@
     "dg",
     "test",
     "tdf",
-    "test1"
+    "test1",
+    "test10"
   ],
   "manufacturers": [
     "1",
@@ -47,7 +48,8 @@
     "dfg",
     "tesst",
     "dsf",
-    "test1"
+    "test1",
+    "test10"
   ],
   "vendors": [
     "1",
@@ -73,7 +75,8 @@
     "dfg",
     "test",
     "fsd",
-    "test1"
+    "test1",
+    "test10"
   ],
   "categories": [
     "IC",
@@ -115,6 +118,7 @@
     "dfg",
     "test",
     "sdf",
-    "test1"
+    "test1",
+    "test10"
   ]
 }
