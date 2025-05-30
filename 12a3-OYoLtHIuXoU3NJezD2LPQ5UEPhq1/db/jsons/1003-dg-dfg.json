@@ -1,0 +1,27 @@
+{
+  "id": "1003",
+  "createdAt": "",
+  "partName": "dg",
+  "manufacturer": "dfg",
+  "manufacturerPart": "dfg",
+  "vendor": "dfg",
+  "vendorProductLink": "dfg",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/12a3-OYoLtHIuXoU3NJezD2LPQ5UEPhq1/db/images/1003-dg-dfg-front.png",
+  "imageType": "image/png",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/12a3-OYoLtHIuXoU3NJezD2LPQ5UEPhq1/db/datasheets/1003-dg-dfg-PCB 17-05.pdf",
+  "datasheetType": "application/pdf",
+  "avl_quantity": "3223",
+  "binLocations": [
+    {
+      "bin": "324",
+      "quantity": 3223
+    }
+  ],
+  "customerRef": "dfg",
+  "description": "dfg",
+  "reorderPoint": "3233232",
+  "reorderQty": "23232",
+  "costPrice": "324",
+  "salePrice": "0324",
+  "category": "Connector"
+}
