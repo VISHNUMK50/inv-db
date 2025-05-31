@@ -1,7 +1,15 @@
 {
-  "partNames": [],
-  "manufacturers": [],
-  "vendors": [],
-  "manufacturerParts": [],
+  "partNames": [
+    "test"
+  ],
+  "manufacturers": [
+    "test"
+  ],
+  "vendors": [
+    "test"
+  ],
+  "manufacturerParts": [
+    "test"
+  ],
   "categories": []
 }
