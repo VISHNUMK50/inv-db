@@ -23,5 +23,7 @@
   "reorderQty": "345",
   "costPrice": "123",
   "salePrice": "234",
-  "category": "test"
+  "category": "test",
+  "quantity": 123,
+  "lastModified": "2025-05-31T18:34:49.321Z"
 }
