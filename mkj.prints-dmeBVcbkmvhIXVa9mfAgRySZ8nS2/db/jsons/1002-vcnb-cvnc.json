@@ -1,0 +1,27 @@
+{
+  "id": "1002",
+  "createdAt": "2025-06-02T18:20:17.831Z",
+  "partName": "vcnb",
+  "manufacturer": "cvn",
+  "manufacturerPart": "cvnc",
+  "vendor": "cnvv",
+  "vendorProductLink": "cvnc",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/mkj.prints-dmeBVcbkmvhIXVa9mfAgRySZ8nS2/db/images/1002-vcnb-cvnc-WhatsApp Image 2025-05-28 at 02.25.07_bc520ffc.jpg",
+  "imageType": "image/jpeg",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/mkj.prints-dmeBVcbkmvhIXVa9mfAgRySZ8nS2/db/datasheets/1002-vcnb-cvnc-PCB 17-05.pdf",
+  "datasheetType": "application/pdf",
+  "avl_quantity": "123",
+  "binLocations": [
+    {
+      "bin": "23",
+      "quantity": 123
+    }
+  ],
+  "customerRef": "cvnv",
+  "description": "cvn",
+  "reorderPoint": "1231",
+  "reorderQty": "123",
+  "costPrice": "123",
+  "salePrice": "1231",
+  "category": "cvnc"
+}
