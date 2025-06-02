@@ -1,0 +1,27 @@
+{
+  "id": "1001",
+  "createdAt": "2025-06-02T19:18:49.734Z",
+  "partName": "Cap",
+  "manufacturer": "Hjdn",
+  "manufacturerPart": "Dbjf",
+  "vendor": "Bfnf",
+  "vendorProductLink": "",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/vishnumk14581-FKuE3PubGzbOsjSpLhe9HjaroWo2/db/images/1001-Cap-Dbjf-Screenshot_20250530-112829.png",
+  "imageType": "image/png",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/vishnumk14581-FKuE3PubGzbOsjSpLhe9HjaroWo2/db/datasheets/1001-Cap-Dbjf-Memento.pdf",
+  "datasheetType": "application/pdf",
+  "avl_quantity": "94",
+  "binLocations": [
+    {
+      "bin": "Gs",
+      "quantity": 94
+    }
+  ],
+  "customerRef": "Hjdn",
+  "description": "",
+  "reorderPoint": "588",
+  "reorderQty": "888",
+  "costPrice": "18856",
+  "salePrice": "54994",
+  "category": "Cjdn"
+}
