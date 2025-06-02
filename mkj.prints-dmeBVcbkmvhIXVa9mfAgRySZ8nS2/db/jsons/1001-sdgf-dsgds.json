@@ -1,0 +1,27 @@
+{
+  "id": "1001",
+  "createdAt": "2025-06-02T18:19:04.204Z",
+  "partName": "sdgf",
+  "manufacturer": "dgsfg",
+  "manufacturerPart": "dsgds",
+  "vendor": "dsgds",
+  "vendorProductLink": "dsgsd",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/mkj.prints-dmeBVcbkmvhIXVa9mfAgRySZ8nS2/db/images/1001-sdgf-dsgds-INVEXIS_BICON.ico",
+  "imageType": "image/x-icon",
+  "datasheet": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/mkj.prints-dmeBVcbkmvhIXVa9mfAgRySZ8nS2/db/datasheets/1001-sdgf-dsgds-Untitled-1.pdf",
+  "datasheetType": "application/pdf",
+  "avl_quantity": "435345",
+  "binLocations": [
+    {
+      "bin": "534543",
+      "quantity": 435345
+    }
+  ],
+  "customerRef": "dsgds",
+  "description": "dsgs",
+  "reorderPoint": "34534",
+  "reorderQty": "345",
+  "costPrice": "43534",
+  "salePrice": "43534",
+  "category": "gdsgsd"
+}
