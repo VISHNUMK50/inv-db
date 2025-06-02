@@ -1,22 +1,7 @@
 {
-  "partNames": [
-    "sdgf",
-    "vcnb"
-  ],
-  "manufacturers": [
-    "dgsfg",
-    "cvn"
-  ],
-  "vendors": [
-    "dsgds",
-    "cnvv"
-  ],
-  "manufacturerParts": [
-    "dsgds",
-    "cvnc"
-  ],
-  "categories": [
-    "gdsgsd",
-    "cvnc"
-  ]
+  "partNames": [],
+  "manufacturers": [],
+  "vendors": [],
+  "manufacturerParts": [],
+  "categories": []
 }
