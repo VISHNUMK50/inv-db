@@ -1,0 +1,27 @@
+{
+  "id": "1002",
+  "createdAt": "2025-06-02T16:28:18.357Z",
+  "partName": "Gjdn",
+  "manufacturer": "Ghxb",
+  "manufacturerPart": "Ghbd",
+  "vendor": "Fhjb",
+  "vendorProductLink": "Hhbb",
+  "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/db/images/1002-Gjdn-Ghbd-Screenshot_20250530-112829.png",
+  "imageType": "image/png",
+  "datasheet": "",
+  "datasheetType": "",
+  "avl_quantity": "55",
+  "binLocations": [
+    {
+      "bin": "Fg",
+      "quantity": 55
+    }
+  ],
+  "customerRef": "Hhx",
+  "description": "Ghb",
+  "reorderPoint": "89",
+  "reorderQty": "899",
+  "costPrice": "258",
+  "salePrice": "56",
+  "category": "Hufhh"
+}
