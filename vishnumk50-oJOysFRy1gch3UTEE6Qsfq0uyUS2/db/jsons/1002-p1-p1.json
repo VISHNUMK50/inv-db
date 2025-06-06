@@ -10,7 +10,7 @@
   "imageType": "",
   "datasheet": "",
   "datasheetType": "",
-  "avl_quantity": "31",
+  "avl_quantity": "30",
   "binLocations": [
     {
       "bin": "a1",
@@ -22,7 +22,7 @@
     },
     {
       "bin": "a3",
-      "quantity": 31
+      "quantity": 30
     }
   ],
   "customerRef": "p1",
