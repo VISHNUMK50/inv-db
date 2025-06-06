@@ -1,0 +1,33 @@
+{
+  "orderId": "order_1749243172790_Jishnu_Mk",
+  "orderDate": "2025-06-07",
+  "createdAt": "2025-06-06T20:52:52.790Z",
+  "status": "completed",
+  "customer": {
+    "name": "Jishnu Mk",
+    "address": "PM Kutty Road\nMannathKandi",
+    "gstNumber": "dsfs",
+    "pincode": "673006",
+    "phone": "9809800536"
+  },
+  "items": [
+    {
+      "partName": "p1",
+      "manufacturerPart": "p1",
+      "qty": 10,
+      "salePrice": 2,
+      "manufacturer": "p1"
+    },
+    {
+      "partName": "p2",
+      "manufacturerPart": "p2",
+      "qty": 5,
+      "salePrice": 32,
+      "manufacturer": "p2"
+    }
+  ],
+  "total": 180,
+  "purpose": "asdas",
+  "description": "asdas",
+  "showActualPrice": false
+}
