@@ -1,0 +1,80 @@
+{
+  "customerName": "VISHNU MK",
+  "address": "MANNATHKANDI, East Nadakave,\nPM.Kutty rd, Eranhipalam P.O",
+  "gstNumber": "asdas",
+  "pincode": "673006",
+  "phone": "08921349921",
+  "purpose": "sad",
+  "description": "asd",
+  "orderDate": "2025-06-07",
+  "products": [
+    {
+      "id": "1002",
+      "createdAt": "2025-06-06T12:59:04.491Z",
+      "partName": "p1",
+      "manufacturer": "p1",
+      "manufacturerPart": "p1",
+      "vendor": "p1",
+      "vendorProductLink": "p1",
+      "image": "",
+      "imageType": "",
+      "datasheet": "",
+      "datasheetType": "",
+      "avl_quantity": "20",
+      "binLocations": [
+        {
+          "bin": "a1",
+          "quantity": 0
+        },
+        {
+          "bin": "a2",
+          "quantity": 0
+        },
+        {
+          "bin": "a3",
+          "quantity": 20
+        }
+      ],
+      "customerRef": "p1",
+      "description": "p1",
+      "reorderPoint": "10",
+      "reorderQty": "50",
+      "costPrice": 1,
+      "salePrice": 2,
+      "category": "p1",
+      "orderQty": 1
+    },
+    {
+      "id": "1001",
+      "createdAt": "2025-06-04T04:31:30.486Z",
+      "partName": "104 CAP 1206 100nF 50V ",
+      "manufacturer": "Ktron",
+      "manufacturerPart": "100nF 50V (104) Multi Layered Ceramic Capacitor (MLCC) - SMD 1206",
+      "vendor": "Ktron",
+      "vendorProductLink": "https://www.ktron.in/product/100nf-50v-104-mlcc-1206/",
+      "image": "https://raw.githubusercontent.com/VISHNUMK50/inv-db/master/vishnumk50-oJOysFRy1gch3UTEE6Qsfq0uyUS2/db/images/1001-104_CAP_1206_100nF_50V_-100nF_50V_(104)_Multi_Layered_Ceramic_Capacitor_(MLCC)___SMD_1206-1206CAP.jpeg",
+      "imageType": "image/jpeg",
+      "datasheet": "",
+      "datasheetType": "",
+      "avl_quantity": "25",
+      "binLocations": [
+        {
+          "bin": "A1",
+          "quantity": 25
+        }
+      ],
+      "customerRef": "",
+      "description": "",
+      "reorderPoint": "5",
+      "reorderQty": "50",
+      "costPrice": 0.96,
+      "salePrice": 1.1,
+      "category": "Capacitor",
+      "orderQty": 1
+    }
+  ],
+  "showActualPrice": false,
+  "priceTotal": 1.96,
+  "salePriceTotal": 3.1,
+  "createdAt": "2025-06-06T19:03:54.649Z"
+}
