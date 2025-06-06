@@ -2,25 +2,30 @@
   "partNames": [
     "104 CAP 1206 100nF 50V",
     "p1",
-    "p2"
+    "p2",
+    "p3"
   ],
   "manufacturers": [
     "Ktron",
     "p1",
-    "p2"
+    "p2",
+    "p3"
   ],
   "vendors": [
     "Ktron",
     "p1",
-    "p2"
+    "p2",
+    "p3"
   ],
   "manufacturerParts": [
     "100nF 50V (104) Multi Layered Ceramic Capacitor (MLCC) - SMD 1206",
     "p1",
-    "p2"
+    "p2",
+    "p3"
   ],
   "categories": [
     "Capacitor",
-    "p1"
+    "p1",
+    "p2"
   ]
 }
