@@ -1,0 +1,27 @@
+{
+  "id": "1004",
+  "partName": "p3",
+  "createdAt": "2025-06-06T20:39:51.211Z",
+  "manufacturer": "p3",
+  "manufacturerPart": "p3",
+  "vendor": "p3",
+  "vendorProductLink": "p3",
+  "image": "",
+  "imageType": "",
+  "datasheet": "",
+  "datasheetType": "",
+  "avl_quantity": "123",
+  "binLocations": [
+    {
+      "bin": "123",
+      "quantity": 123
+    }
+  ],
+  "customerRef": "p3",
+  "description": "p3",
+  "reorderPoint": "132",
+  "reorderQty": "123",
+  "costPrice": "123",
+  "salePrice": "123",
+  "category": "p3"
+}
