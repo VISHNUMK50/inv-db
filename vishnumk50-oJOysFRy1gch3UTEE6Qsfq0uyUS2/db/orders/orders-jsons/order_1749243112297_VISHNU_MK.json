@@ -1,0 +1,26 @@
+{
+  "orderId": "order_1749243112297_VISHNU_MK",
+  "orderDate": "2025-06-07",
+  "createdAt": "2025-06-06T20:51:52.297Z",
+  "status": "completed",
+  "customer": {
+    "name": "VISHNU MK",
+    "address": "MANNATHKANDI, East Nadakave,\nPM.Kutty rd, Eranhipalam P.O",
+    "gstNumber": "asdas",
+    "pincode": "673006",
+    "phone": "08921349921"
+  },
+  "items": [
+    {
+      "partName": "p3",
+      "manufacturerPart": "p3",
+      "qty": 1,
+      "salePrice": 123,
+      "manufacturer": "p3"
+    }
+  ],
+  "total": 123,
+  "purpose": "asdas",
+  "description": "asdas",
+  "showActualPrice": false
+}
