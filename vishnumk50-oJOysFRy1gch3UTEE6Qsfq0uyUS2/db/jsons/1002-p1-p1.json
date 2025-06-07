@@ -10,11 +10,11 @@
   "imageType": "",
   "datasheet": "",
   "datasheetType": "",
-  "avl_quantity": "106",
+  "avl_quantity": "105",
   "binLocations": [
     {
       "bin": "a1",
-      "quantity": 87
+      "quantity": 86
     },
     {
       "bin": "a2",
