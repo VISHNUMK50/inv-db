@@ -1,0 +1,26 @@
+{
+  "orderId": "order_1749278403784_VISHNU_MK",
+  "orderDate": "2025-06-07",
+  "createdAt": "2025-06-07T06:40:03.784Z",
+  "status": "completed",
+  "customer": {
+    "name": "VISHNU MK",
+    "address": "MANNATHKANDI, East Nadakave,\nPM.Kutty rd, Eranhipalam P.O",
+    "gstNumber": "asdas",
+    "pincode": "673006",
+    "phone": "08921349921"
+  },
+  "items": [
+    {
+      "partName": "p2",
+      "manufacturerPart": "p2",
+      "qty": 1,
+      "salePrice": 32,
+      "manufacturer": "p2"
+    }
+  ],
+  "total": 32,
+  "purpose": "",
+  "description": "asf",
+  "showActualPrice": false
+}
